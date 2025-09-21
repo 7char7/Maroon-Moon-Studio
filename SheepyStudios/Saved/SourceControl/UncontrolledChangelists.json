@@ -6,11 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/BP_NPC.uasset",
-				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/BPI_NPC_Dialogue.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/WB_Dialogue.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office_Testing.umap",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/BPI_Dialogue.uasset",
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/WB_Dialogue_Interaction.uasset",
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/BPI_NPC_Dialogue.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/blank.umap",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Art_Testing.umap",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_AI_Testing.umap",
