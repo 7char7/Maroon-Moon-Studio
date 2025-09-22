@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/logan/Documents/Unreal Projects/Sheepy Studios/Sheepy-Studios/SheepyStudios/Content/GarageModels/Materials/Concrete_Mat.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/Sheepy Studios/Sheepy-Studios/SheepyStudios/Content/GarageModels/Materials/Asphalt_mat.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/Sheepy Studios/Sheepy-Studios/SheepyStudios/Content/GarageModels/Textures/AsphaltRoughness.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/Sheepy Studios/Sheepy-Studios/SheepyStudios/Content/GarageModels/Materials/AsphaltWorld_Mat.uasset",
+				"C:/Users/logan/Documents/Unreal Projects/Sheepy Studios/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Garage_Floor_3.umap",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/blank.umap",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Art_Testing.umap",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_AI_Testing.umap",
