@@ -4,7 +4,15 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office_Testing.umap",
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_87AE35CE.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_671E58C3.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_E234711C.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_D3762DB0.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_CD7B5D60.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_3C88BA0C.uasset"
+			]
 		}
 	]
 }
