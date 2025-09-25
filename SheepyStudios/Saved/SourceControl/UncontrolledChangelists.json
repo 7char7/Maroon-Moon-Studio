@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_AI_Testing.umap",
+				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Stalker/BP_Stalker.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Minigames/BC_Fish_Trigger.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office_Testing.umap",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Stalker/BC_Stalker_Breakout.uasset",
@@ -12,8 +14,7 @@
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Stalker/BC_Breakout_Trigger.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Minigames/WB_Fish_Minigame.uasset",
-				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/BP_NPC.uasset",
-				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_AI_Testing.umap"
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/BP_NPC.uasset"
 			]
 		}
 	]
