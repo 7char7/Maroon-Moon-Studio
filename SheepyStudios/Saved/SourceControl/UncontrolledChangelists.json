@@ -5,9 +5,16 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_AI_Testing.umap",
-				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office_Testing1.umap",
-				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office_Testing_mainBranch.umap"
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office_Testing.umap",
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_671E58C3.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_E234711C.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_6EE964C3.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_6B3A5341.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_CD7B5D60.uasset",
+				"V:/Unreal Engine/UE_5.6/UE_5.6/Engine/Content/MapTemplates/Sky/M_BlackBackground.uasset",
+				"V:/Unreal Engine/UE_5.6/UE_5.6/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Graph_Inputs.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_726BA738.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/WhatYoudDontSee/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_3B093300.uasset"
 			]
 		}
 	]
