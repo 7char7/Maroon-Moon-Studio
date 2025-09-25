@@ -4,7 +4,9 @@
 		{
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
-			"files": []
+			"files": [
+				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_AI_Testing.umap"
+			]
 		}
 	]
 }
