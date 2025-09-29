@@ -1349,3 +1349,4 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.09.29-23.12.52:803][121]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 38774.44 ms.
 [2025.09.29-23.12.58:275][750]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 44247.58 ms.
 [2025.09.29-23.12.58:863][813]LogD3D12RHI: Compiled PathTracingMainRG for RTPSO in 44835.86 ms.
+[2025.09.29-23.13.32:233][115]LogDerivedDataCache: C:/Users/br295143/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
