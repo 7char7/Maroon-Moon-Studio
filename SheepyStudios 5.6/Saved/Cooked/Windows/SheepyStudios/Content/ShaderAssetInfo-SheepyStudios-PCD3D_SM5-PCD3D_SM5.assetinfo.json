@@ -40,6 +40,7 @@
 		{
 			"ShaderMapHash": "CEF1920731D41AFCAD62268CEA9E364E02C8B9BC",
 			"Assets": [
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Dark_Gray",
 				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Garbage_can"
 			]
 		},
@@ -77,7 +78,8 @@
 		{
 			"ShaderMapHash": "82E1D712B5800CD7165B42123F9FAF4874266894",
 			"Assets": [
-				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Maps"
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Maps",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Pics"
 			]
 		},
 		{
@@ -107,6 +109,7 @@
 		{
 			"ShaderMapHash": "937DE51CA79B60C5B26941CC62F6959BD9217A0D",
 			"Assets": [
+				"/Game/GarageModels/Materials/CarWhite",
 				"/Game/GarageModels/Materials/CarWhiteL"
 			]
 		},
@@ -156,7 +159,8 @@
 		{
 			"ShaderMapHash": "1D7AB929B4565DF4FFF894A98502E79B1ADD800C",
 			"Assets": [
-				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Big_Window"
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Big_Window",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Blinds"
 			]
 		},
 		{
@@ -411,6 +415,7 @@
 		{
 			"ShaderMapHash": "CD1CFA7F3014B922848ABBD8A7042E314552F548",
 			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
 				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
 			]
 		},
@@ -531,7 +536,8 @@
 		{
 			"ShaderMapHash": "8162F59EFE908B41191A8CD1E400331EFF189AC4",
 			"Assets": [
-				"/Engine/EditorLandscapeResources/MaskBrushMaterial"
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial",
+				"/Engine/EditorLandscapeResources/MaskBrushMaterial_MaskedRegion"
 			]
 		},
 		{
@@ -634,7 +640,18 @@
 		{
 			"ShaderMapHash": "101F0AC078D4DFDE7F80C91FFF68084CEFC0D837",
 			"Assets": [
-				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/CompTower"
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Blinds_Cover",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/certjournal",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Clock_Face",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/CompTower",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Documents",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/fiber_insulation",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Garbages",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/MonitorBack",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Office_Details_Stuff",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Photos_Collection",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Switches_and_PostIts",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Whitewall"
 			]
 		},
 		{
@@ -694,7 +711,14 @@
 		{
 			"ShaderMapHash": "089CC5CB8D9758B7AECE9D811A646652EC3D5151",
 			"Assets": [
-				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Computer_Decorations"
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Baseboard",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Computer_Decorations",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/CorkBoard",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Desk_Gray_Metals",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Desk_Wood_Chair",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Distressed_Rug",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Poster_of_Alaska",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Whitewall2"
 			]
 		},
 		{
@@ -761,7 +785,12 @@
 		{
 			"ShaderMapHash": "E4084BF0A77DF3B73E835CFA1D9DA2F9F497BACF",
 			"Assets": [
-				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Medium_Gray"
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Gray_Matte",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/lambert1",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Light_Gray",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Medium_Gray",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Pin_Back",
+				"/Game/ShaderTest/FAB_Assets/detectives_office_true_detective_fan_art/Materials/Plastic_OffWhite2"
 			]
 		},
 		{
