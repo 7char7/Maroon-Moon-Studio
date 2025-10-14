@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rafaf/Documents/WorkshopGit2/Sheepy-Studios/SheepyStudios/Content/GarageModels/Materials/ConeBase.uasset",
+				"C:/Users/rafaf/Documents/WorkshopGit2/Sheepy-Studios/SheepyStudios/Content/GarageModels/Textures/ConeBaseColor.uasset",
+				"C:/Users/rafaf/Documents/WorkshopGit2/Sheepy-Studios/SheepyStudios/Content/GarageModels/Textures/CBottomColor.uasset",
+				"C:/Users/rafaf/Documents/WorkshopGit2/Sheepy-Studios/SheepyStudios/Content/GarageModels/Materials/m_Cone1.uasset",
+				"C:/Users/rafaf/Documents/WorkshopGit2/Sheepy-Studios/SheepyStudios/Content/GarageModels/Meshes/TrafficCone.uasset",
+				"C:/Users/rafaf/Documents/WorkshopGit2/Sheepy-Studios/SheepyStudios/Content/GarageModels/Materials/ConeWhite.uasset",
+				"C:/Users/rafaf/Documents/WorkshopGit2/Sheepy-Studios/SheepyStudios/Content/GarageModels/Materials/ConeOrange.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Characters/Inputs/IMC_Player.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Stalker/BP_Throwing_Trash.uasset",
