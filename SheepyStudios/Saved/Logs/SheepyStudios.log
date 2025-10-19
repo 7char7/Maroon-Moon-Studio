@@ -1419,3 +1419,496 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.19-15.53.33:599][433]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1676.176636
 [2025.10.19-15.53.34:600][436]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.10.19-15.53.34:600][436]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1676.844360, Update Interval: 334.432190
+[2025.10.19-15.56.21:447][319]LogStreaming: Display: FlushAsyncLoading(333): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.19-15.56.21:753][319]LogStreaming: Display: FlushAsyncLoading(344): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.19-15.56.23:058][417]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-15.56.23:076][417]LogStreaming: Display: FlushAsyncLoading(345): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.19-15.56.23:093][417]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.19-15.57.02:939][343]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-15.57.02:945][343]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.19-15.59.49:583][ 82]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2052.160156
+[2025.10.19-15.59.49:667][ 88]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-15.59.49:667][ 88]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2052.229492, Update Interval: 356.075928
+[2025.10.19-16.01.28:163][194]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41.CubeGridToolOutput_6542FB41
+[2025.10.19-16.01.28:164][194]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_6542FB41 (Required Memory Estimate: 1.130073 MB)...
+[2025.10.19-16.01.28:165][194]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41.CubeGridToolOutput_6542FB41 as actor: StaticMeshActor /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_4
+[2025.10.19-16.01.28:170][194]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41.CubeGridToolOutput_6542FB41
+[2025.10.19-16.01.28:171][194]LogStaticMesh: Warning: CubeGridToolOutput_6542FB41 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.01.28:172][194]LogStaticMesh: Warning: CubeGridToolOutput_6542FB41 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.01.30:531][336]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.01.30:538][336]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.19-16.01.33:367][525]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.02.08:992][795]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_82931FA3 (Required Memory Estimate: 0.332057 MB)...
+[2025.10.19-16.02.08:994][795]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_82931FA3.CubeGridToolOutput_82931FA3
+[2025.10.19-16.02.14:013][132]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.02.43:613][290]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.19-16.02.43:697][290]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Lvl_Office_Auto1
+[2025.10.19-16.02.43:697][290]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Lvl_Office_Auto1534D35294216D8748C1E1EA7F76C5E2F.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/Lvl_Office_Auto1.umap'
+[2025.10.19-16.02.43:699][290]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_Office' took 0.122
+[2025.10.19-16.02.43:699][290]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.122
+[2025.10.19-16.02.43:700][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_82931FA3] ([1] browsable assets)...
+[2025.10.19-16.02.43:748][290]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_82931FA3.CubeGridToolOutput_82931FA3]
+[2025.10.19-16.02.43:748][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_82931FA3]
+[2025.10.19-16.02.43:764][290]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_82931FA3_Auto1
+[2025.10.19-16.02.43:764][290]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_82931FA3_Auto53ACBF8D45FE2F4C4B77CDA6FFB69065.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_82931FA3_Auto1.uasset'
+[2025.10.19-16.02.43:764][290]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41] ([1] browsable assets)...
+[2025.10.19-16.02.43:773][290]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41.CubeGridToolOutput_6542FB41]
+[2025.10.19-16.02.43:773][290]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41]
+[2025.10.19-16.02.43:786][290]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41_Auto1
+[2025.10.19-16.02.43:786][290]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_6542FB41_Auto2F43DFDD4D7C48C105033388341BD482.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41_Auto1.uasset'
+[2025.10.19-16.02.43:787][290]LogFileHelpers: Auto-saving content packages took 0.087
+[2025.10.19-16.02.44:918][381]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.02.44:925][381]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.19-16.02.58:816][281]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_6542FB41 (Required Memory Estimate: 0.70784 MB)...
+[2025.10.19-16.02.58:819][281]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41.CubeGridToolOutput_6542FB41
+[2025.10.19-16.02.58:820][281]LogStaticMesh: Warning: CubeGridToolOutput_6542FB41 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.02.58:820][281]LogStaticMesh: Warning: CubeGridToolOutput_6542FB41 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.03.02:164][547]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.03.02:171][547]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.19-16.03.03:839][667]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.04.30:109][743]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_6CAC4B7B (Required Memory Estimate: 3.421273 MB)...
+[2025.10.19-16.04.30:123][743]LogStaticMesh: Built static mesh [0.01s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B.CubeGridToolOutput_6CAC4B7B
+[2025.10.19-16.04.30:125][743]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B) ...
+[2025.10.19-16.04.30:126][743]LogStaticMesh: Warning: CubeGridToolOutput_6CAC4B7B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.04.30:126][743]LogStaticMesh: Warning: CubeGridToolOutput_6CAC4B7B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.04.35:151][114]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.04.41:815][568]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.04.41:824][568]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.19-16.05.39:177][417]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_6CAC4B7B (Required Memory Estimate: 5.676265 MB)...
+[2025.10.19-16.05.39:193][417]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B) ...
+[2025.10.19-16.05.39:194][417]LogStaticMesh: Built static mesh [0.02s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B.CubeGridToolOutput_6CAC4B7B
+[2025.10.19-16.05.39:199][417]LogStaticMesh: Warning: CubeGridToolOutput_6CAC4B7B has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.05.39:199][417]LogStaticMesh: Warning: CubeGridToolOutput_6CAC4B7B has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.05.44:214][780]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.06.19:374][393]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2441.962891
+[2025.10.19-16.06.19:455][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-16.06.19:455][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2442.030273, Update Interval: 307.503906
+[2025.10.19-16.12.15:888][993]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2798.489746
+[2025.10.19-16.12.15:992][  0]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-16.12.15:992][  0]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2798.580322, Update Interval: 313.914612
+[2025.10.19-16.12.43:927][833]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.10.19-16.12.44:047][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Lvl_Office_Auto2
+[2025.10.19-16.12.44:047][833]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Lvl_Office_Auto2582AB92641B8D52F1D09B693EE08BAE0.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/Lvl_Office_Auto2.umap'
+[2025.10.19-16.12.44:048][833]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_Office' took 0.139
+[2025.10.19-16.12.44:048][833]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.139
+[2025.10.19-16.12.44:049][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B] ([1] browsable assets)...
+[2025.10.19-16.12.44:106][833]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B.CubeGridToolOutput_6CAC4B7B]
+[2025.10.19-16.12.44:106][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B]
+[2025.10.19-16.12.44:122][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B_Auto2
+[2025.10.19-16.12.44:122][833]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_6CAC4B7B_Auto1982AD9043DA0600738D12A5F8AF5CF5.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B_Auto2.uasset'
+[2025.10.19-16.12.44:123][833]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41] ([1] browsable assets)...
+[2025.10.19-16.12.44:135][833]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41.CubeGridToolOutput_6542FB41]
+[2025.10.19-16.12.44:135][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41]
+[2025.10.19-16.12.44:147][833]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41_Auto2
+[2025.10.19-16.12.44:147][833]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_6542FB41_Auto2BB45B9F4BCAA26D4825F094674952C7.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41_Auto2.uasset'
+[2025.10.19-16.12.44:148][833]LogFileHelpers: Auto-saving content packages took 0.100
+[2025.10.19-16.17.52:926][166]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.17.52:932][166]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.19-16.18.12:231][353]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3154.821289
+[2025.10.19-16.18.12:334][361]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-16.18.12:334][361]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3154.907959, Update Interval: 346.523010
+[2025.10.19-16.18.53:676][ 66]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.10.19-16.19.03:578][762]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_241.StaticMeshComponent0.
+[2025.10.19-16.20.05:388][958]Cmd: DELETE
+[2025.10.19-16.20.05:388][958]Cmd: ACTOR DELETE
+[2025.10.19-16.20.05:406][958]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.19-16.20.05:427][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.19-16.20.05:430][958]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.10.19-16.20.31:191][ 33]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.20.31:196][ 33]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.19-16.21.03:796][836]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.21.03:822][836]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.19-16.21.23:995][164]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_3A7CF4F4 (Required Memory Estimate: 10.247705 MB)...
+[2025.10.19-16.21.24:011][164]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4) ...
+[2025.10.19-16.21.24:029][164]LogStaticMesh: Built static mesh [0.03s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4.CubeGridToolOutput_3A7CF4F4
+[2025.10.19-16.21.24:038][164]LogStaticMesh: Warning: CubeGridToolOutput_3A7CF4F4 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.21.24:038][164]LogStaticMesh: Warning: CubeGridToolOutput_3A7CF4F4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.21.26:211][164]LogMeshUtilities: Finished distance field build in 2.2s - 126x126x119 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 82% occupied, 0 triangles, CubeGridToolOutput_3A7CF4F4
+[2025.10.19-16.21.26:212][164]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_3A7CF4F4 (Required Memory Estimate: 10.116807 MB)...
+[2025.10.19-16.21.26:228][164]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4) ...
+[2025.10.19-16.21.26:254][164]LogStaticMesh: Built static mesh [0.04s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4.CubeGridToolOutput_3A7CF4F4
+[2025.10.19-16.21.26:263][164]LogStaticMesh: Warning: CubeGridToolOutput_3A7CF4F4 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.21.26:263][164]LogStaticMesh: Warning: CubeGridToolOutput_3A7CF4F4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.21.28:233][269]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.21.28:254][269]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.19-16.21.28:639][282]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x119 sparse distance field, 2.5Mb total, 0.1Mb always loaded, 78% occupied, 0 triangles, CubeGridToolOutput_3A7CF4F4
+[2025.10.19-16.21.31:289][444]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.21.55:483][ 31]Cmd: TRANSACTION UNDO
+[2025.10.19-16.21.55:483][ 31]LogEditorTransaction: Undo Transform
+[2025.10.19-16.22.22:851][835]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_3A7CF4F4 (Required Memory Estimate: 10.370331 MB)...
+[2025.10.19-16.22.22:867][835]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4) ...
+[2025.10.19-16.22.22:885][835]LogStaticMesh: Built static mesh [0.03s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4.CubeGridToolOutput_3A7CF4F4
+[2025.10.19-16.22.22:895][835]LogStaticMesh: Warning: CubeGridToolOutput_3A7CF4F4 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.22.22:895][835]LogStaticMesh: Warning: CubeGridToolOutput_3A7CF4F4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.22.24:867][946]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.22.24:890][946]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.19-16.22.25:269][961]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x119 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 82% occupied, 0 triangles, CubeGridToolOutput_3A7CF4F4
+[2025.10.19-16.22.27:910][105]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.23.01:523][466]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_16FE268C (Required Memory Estimate: 0.672439 MB)...
+[2025.10.19-16.23.01:525][466]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_16FE268C.CubeGridToolOutput_16FE268C
+[2025.10.19-16.23.01:987][466]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_16FE268C (Required Memory Estimate: 0.650689 MB)...
+[2025.10.19-16.23.01:990][466]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_16FE268C.CubeGridToolOutput_16FE268C
+[2025.10.19-16.23.03:575][573]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.23.03:594][573]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.19-16.23.07:030][782]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.23.14:893][281]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_2CB3C961 (Required Memory Estimate: 0.527041 MB)...
+[2025.10.19-16.23.14:895][281]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_2CB3C961.CubeGridToolOutput_2CB3C961
+[2025.10.19-16.23.16:839][422]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.23.16:852][422]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.19-16.23.19:907][635]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.23.29:680][246]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_3A7CF4F4 (Required Memory Estimate: 10.180867 MB)...
+[2025.10.19-16.23.29:696][246]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4) ...
+[2025.10.19-16.23.29:715][246]LogStaticMesh: Built static mesh [0.03s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4.CubeGridToolOutput_3A7CF4F4
+[2025.10.19-16.23.29:724][246]LogStaticMesh: Warning: CubeGridToolOutput_3A7CF4F4 has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.23.29:724][246]LogStaticMesh: Warning: CubeGridToolOutput_3A7CF4F4 has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.23.32:081][370]LogMeshUtilities: Finished distance field build in 2.4s - 126x126x119 sparse distance field, 2.6Mb total, 0.1Mb always loaded, 82% occupied, 0 triangles, CubeGridToolOutput_3A7CF4F4
+[2025.10.19-16.23.33:383][476]LogStreaming: Display: FlushAsyncLoading(347): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.19-16.23.33:645][476]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.23.33:645][476]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.23.33:807][476]LogTexture: Display: Building textures: /Engine/Transient.Texture2D_6 (BGRA8, 128x128 x1x1x1) (Required Memory Estimate: 1.515617 MB), EncodeSpeed: Fast
+[2025.10.19-16.23.34:744][515]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.24.19:064][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.19-16.24.19:177][340]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Lvl_Office_Auto3
+[2025.10.19-16.24.19:177][340]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Lvl_Office_Auto3B67646904F08596AC4CAA5A6EE3F23E8.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/Lvl_Office_Auto3.umap'
+[2025.10.19-16.24.19:177][340]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_Office' took 0.164
+[2025.10.19-16.24.19:178][340]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.164
+[2025.10.19-16.24.19:178][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_16FE268C] ([1] browsable assets)...
+[2025.10.19-16.24.19:222][340]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_16FE268C.CubeGridToolOutput_16FE268C]
+[2025.10.19-16.24.19:222][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_16FE268C]
+[2025.10.19-16.24.19:236][340]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_16FE268C_Auto3
+[2025.10.19-16.24.19:236][340]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_16FE268C_Auto1AC5A13B4B6163AA08CBFD80222F73D7.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_16FE268C_Auto3.uasset'
+[2025.10.19-16.24.19:237][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_2CB3C961] ([1] browsable assets)...
+[2025.10.19-16.24.19:245][340]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_2CB3C961.CubeGridToolOutput_2CB3C961]
+[2025.10.19-16.24.19:245][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_2CB3C961]
+[2025.10.19-16.24.19:256][340]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_2CB3C961_Auto3
+[2025.10.19-16.24.19:256][340]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_2CB3C961_AutoA276B7FD4F10A7AADB0A918F99D06226.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_2CB3C961_Auto3.uasset'
+[2025.10.19-16.24.19:257][340]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4] ([1] browsable assets)...
+[2025.10.19-16.24.19:264][340]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4.CubeGridToolOutput_3A7CF4F4]
+[2025.10.19-16.24.19:264][340]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4]
+[2025.10.19-16.24.19:280][340]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4_Auto3
+[2025.10.19-16.24.19:280][340]LogSavePackage: Error: Cannot remove '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4_Auto3.uasset' as it is read only!
+[2025.10.19-16.24.19:280][340]LogSavePackage: Error: Error saving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4_Auto3.uasset'
+[2025.10.19-16.24.19:280][340]Warning: Error saving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4_Auto3.uasset'
+[2025.10.19-16.24.39:903][739]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3542.480713
+[2025.10.19-16.24.40:016][747]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-16.24.40:016][747]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3542.579102, Update Interval: 321.575989
+[2025.10.19-16.24.54:671][745]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.24.54:677][745]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: ================================================
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Total job queries 864, among them cache hits 66 (7.64%), DDC hits 447 (51.74%), Duplicates 200 (23.15%)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Tracking 598 distinct input hashes that result in 415 distinct outputs (69.40%)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: RAM used: 5.08 MiB of 2.40 GiB budget. Usage: 0.21%
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Shaders Compiled: 151
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Jobs assigned 151, completed 151 (100%)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Time job spent in pending queue: average 5.58 s, longest 18.04 s
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Job execution time: average 7.75 s, max 11.57 s
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Job life time (pending + execution): average 13.33 s, max 19.37
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Shader code size: total 1.47 MiB, numShaders 151, average 9.967 KiB, min 2.105 KiB, max 18.979 KiB
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 19.53 s
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Jobs were issued in 29 batches (only local compilation was used), average 5.21 jobs/batch
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Average processing rate: 7.73 jobs/sec
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Total thread time: 132.459 s
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Total thread preprocess time: 12.933 s
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Percentage time preprocessing: 9.76%
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Effective parallelization: 6.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.847599
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS (compiled   14 times, average 1.96 sec, max 2.07 sec, min 1.82 sec)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled   14 times, average 1.82 sec, max 2.00 sec, min 1.69 sec)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   14 times, average 1.45 sec, max 2.08 sec, min 1.07 sec)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.83 sec, max 0.83 sec, min 0.83 sec)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   13 times, average 0.71 sec, max 0.93 sec, min 0.51 sec)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display:                                  FPathTracingMaterialCHS_AHS - 20.77% of total time (compiled   14 times, average 1.96 sec, max 2.07 sec, min 1.82 sec)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader - 19.27% of total time (compiled   14 times, average 1.82 sec, max 2.00 sec, min 1.69 sec)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display:                                             FDebugViewModePS - 15.29% of total time (compiled   14 times, average 1.45 sec, max 2.08 sec, min 1.07 sec)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.92% of total time (compiled   13 times, average 0.71 sec, max 0.93 sec, min 0.51 sec)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display:                        FLumenTranslucencyRadianceCacheMarkPS - 6.29% of total time (compiled   14 times, average 0.60 sec, max 0.75 sec, min 0.48 sec)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: === Material stats ===
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Materials Translated:    179
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Material Translation Only: 0.08 s (56%)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: Material Cache Hits: 36 (20%)
+[2025.10.19-16.25.48:027][603]LogShaderCompilers: Display: ================================================
+[2025.10.19-16.26.49:098][969]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_8A4BF308.CubeGridToolOutput_8A4BF308
+[2025.10.19-16.26.49:099][969]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_8A4BF308 (Required Memory Estimate: 0.571115 MB)...
+[2025.10.19-16.26.49:099][969]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_8A4BF308.CubeGridToolOutput_8A4BF308 as actor: StaticMeshActor /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_441
+[2025.10.19-16.26.49:100][969]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_8A4BF308.CubeGridToolOutput_8A4BF308
+[2025.10.19-16.26.54:186][312]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.26.58:376][599]LogDerivedDataCache: C:/Users/camer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.19-16.27.03:917][991]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.27.03:923][991]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.19-16.27.20:872][ 27]LogSlate: Window 'Accept changes instead?' being destroyed
+[2025.10.19-16.27.20:876][ 27]Message dialog closed, result: No, title: Accept changes instead?, text: The tool is being cancelled, which normally discards all changes. Would you like to apply the changes instead?
+
+ Selecting "No" or closing this window will discard the tool's current work.
+[2025.10.19-16.27.22:883][158]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.27.22:891][158]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.19-16.27.33:915][952]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_8A4BF308 (Required Memory Estimate: 0.379788 MB)...
+[2025.10.19-16.27.33:917][952]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_8A4BF308.CubeGridToolOutput_8A4BF308
+[2025.10.19-16.27.38:976][286]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.27.49:164][975]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.27.49:170][975]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.19-16.28.09:731][495]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_E8362211.CubeGridToolOutput_E8362211
+[2025.10.19-16.28.09:731][495]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_E8362211 (Required Memory Estimate: 0.193856 MB)...
+[2025.10.19-16.28.09:733][495]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_E8362211.CubeGridToolOutput_E8362211
+[2025.10.19-16.28.09:733][495]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_E8362211.CubeGridToolOutput_E8362211 as actor: StaticMeshActor /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_445
+[2025.10.19-16.28.14:594][819]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.28.14:601][819]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.19-16.28.14:830][831]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.28.33:033][ 39]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_1F497434.CubeGridToolOutput_1F497434
+[2025.10.19-16.28.33:034][ 39]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_1F497434 (Required Memory Estimate: 0.063359 MB)...
+[2025.10.19-16.28.33:035][ 39]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_1F497434.CubeGridToolOutput_1F497434 as actor: StaticMeshActor /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_446
+[2025.10.19-16.28.33:035][ 39]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_1F497434.CubeGridToolOutput_1F497434
+[2025.10.19-16.28.38:128][364]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.28.40:521][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.10.19-16.28.40:521][533]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cylinder.Cylinder
+[2025.10.19-16.28.40:522][533]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_447
+[2025.10.19-16.28.40:523][533]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cylinder.Cylinder as actor: StaticMeshActor /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_447
+[2025.10.19-16.28.52:972][357]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_447.StaticMeshComponent0.
+[2025.10.19-16.28.53:784][407]LogNavigation: Warning: FNavigationOctree::AddNode: Empty bounds, ignoring StaticMeshComponent /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_447.StaticMeshComponent0.
+[2025.10.19-16.28.56:077][567]LogPhysics: Warning: Scale for /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_447.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.200 Y=0.000 Z=0.000
+[2025.10.19-16.28.56:077][567]LogPhysics: Warning: Scale for /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_447.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.200 Y=0.000 Z=0.000
+[2025.10.19-16.28.56:736][613]LogPhysics: Warning: Scale for /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_447.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.200 Y=0.200 Z=0.000
+[2025.10.19-16.28.56:737][613]LogPhysics: Warning: Scale for /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_447.StaticMeshComponent0 has a component set to zero, which will result in a bad body instance. Scale:X=0.200 Y=0.200 Z=0.000
+[2025.10.19-16.29.58:626][905]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.29.58:635][905]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.19-16.30.17:998][185]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_2608D95C.CubeGridToolOutput_2608D95C
+[2025.10.19-16.30.17:998][185]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_2608D95C (Required Memory Estimate: 0.063359 MB)...
+[2025.10.19-16.30.17:999][185]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_2608D95C.CubeGridToolOutput_2608D95C as actor: StaticMeshActor /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_449
+[2025.10.19-16.30.17:999][185]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_2608D95C.CubeGridToolOutput_2608D95C
+[2025.10.19-16.30.21:946][455]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.30.21:954][455]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.19-16.30.23:137][530]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.30.27:706][836]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_2608D95C (Required Memory Estimate: 0.124923 MB)...
+[2025.10.19-16.30.27:707][836]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_2608D95C.CubeGridToolOutput_2608D95C
+[2025.10.19-16.30.32:527][183]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.19-16.30.32:533][183]LogInteractiveToolsContext: Warning: Creating new asset.
+[2025.10.19-16.30.32:747][193]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.30.52:014][606]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3914.586182
+[2025.10.19-16.30.52:099][613]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-16.30.52:099][613]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3914.660156, Update Interval: 358.225647
+[2025.10.19-16.32.33:484][860]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_5BAD078D.CubeGridToolOutput_5BAD078D
+[2025.10.19-16.32.33:484][860]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_5BAD078D (Required Memory Estimate: 0.467187 MB)...
+[2025.10.19-16.32.33:486][860]LogActorFactory: Actor Factory spawned StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_5BAD078D.CubeGridToolOutput_5BAD078D as actor: StaticMeshActor /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_450
+[2025.10.19-16.32.33:487][860]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_5BAD078D.CubeGridToolOutput_5BAD078D
+[2025.10.19-16.32.33:487][860]LogStaticMesh: Warning: CubeGridToolOutput_5BAD078D has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.32.33:487][860]LogStaticMesh: Warning: CubeGridToolOutput_5BAD078D has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2025.10.19-16.32.38:684][210]LogStaticMesh: Warning: Invalid material [FB_Mat] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.19-16.32.40:292][317]Cmd: DELETE
+[2025.10.19-16.32.40:292][317]Cmd: ACTOR DELETE
+[2025.10.19-16.32.40:306][317]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.19-16.32.40:378][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2025.10.19-16.32.40:381][317]LogEditorActor: Deleted 1 Actors (0.089 secs)
+[2025.10.19-16.32.40:966][351]Cmd: DELETE
+[2025.10.19-16.32.40:966][351]Cmd: ACTOR DELETE
+[2025.10.19-16.32.40:976][351]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.19-16.32.40:992][351]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.10.19-16.32.40:996][351]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.10.19-16.33.20:307][158]Cmd: DELETE
+[2025.10.19-16.33.20:307][158]Cmd: ACTOR DELETE
+[2025.10.19-16.33.20:316][158]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.19-16.33.20:336][158]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.10.19-16.33.20:343][158]LogEditorActor: Deleted 1 Actors (0.036 secs)
+[2025.10.19-16.33.20:719][185]Cmd: DELETE
+[2025.10.19-16.33.20:719][185]Cmd: ACTOR DELETE
+[2025.10.19-16.33.20:727][185]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.19-16.33.20:743][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.10.19-16.33.20:747][185]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.10.19-16.33.39:733][570]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.10.19-16.33.39:733][570]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Plane.Plane
+[2025.10.19-16.33.39:734][570]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_456
+[2025.10.19-16.33.39:735][570]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Plane.Plane as actor: StaticMeshActor /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_456
+[2025.10.19-16.33.46:657][ 81]LogNavigationDirtyArea: Warning: Skipped some dirty area creation due to: 0 invalid bounds, 1 empty bounds (element: StaticMeshComponent /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_456.StaticMeshComponent0, from: Addition to navoctree)
+[2025.10.19-16.33.47:064][110]LogNavigationDirtyArea: Warning: Skipped some dirty area creation due to: 0 invalid bounds, 1 empty bounds (element: StaticMeshComponent /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_456.StaticMeshComponent0, from: Remove from navoctree)
+[2025.10.19-16.34.24:507][891]Cmd: MODE GRID=0
+[2025.10.19-16.34.42:099][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.10.19-16.34.42:099][153]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Engine/BasicShapes/Cube.Cube
+[2025.10.19-16.34.42:101][153]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_457
+[2025.10.19-16.34.42:102][153]LogActorFactory: Actor Factory spawned StaticMesh /Engine/BasicShapes/Cube.Cube as actor: StaticMeshActor /Game/Levels/Lvl_Office.Lvl_Office:PersistentLevel.StaticMeshActor_457
+[2025.10.19-16.36.20:568][580]Cmd: DELETE
+[2025.10.19-16.36.20:568][580]Cmd: ACTOR DELETE
+[2025.10.19-16.36.20:577][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.19-16.36.20:578][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.19-16.36.20:578][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.19-16.36.20:579][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.19-16.36.20:580][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.19-16.36.20:580][580]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.19-16.36.20:619][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.10.19-16.36.20:624][580]LogEditorActor: Deleted 6 Actors (0.056 secs)
+[2025.10.19-16.37.19:273][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.19-16.37.19:402][689]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/Lvl_Office_Auto3
+[2025.10.19-16.37.19:402][689]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Lvl_Office_Auto3E40B0F124BA2D6083233948CC9113D5D.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/Lvl_Office_Auto3.umap'
+[2025.10.19-16.37.19:404][689]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Levels/Lvl_Office' took 0.147
+[2025.10.19-16.37.19:404][689]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.147
+[2025.10.19-16.37.19:404][689]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4] ([1] browsable assets)...
+[2025.10.19-16.37.19:404][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4]
+[2025.10.19-16.37.19:419][689]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4_Auto3
+[2025.10.19-16.37.19:419][689]LogSavePackage: Error: Cannot remove '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4_Auto3.uasset' as it is read only!
+[2025.10.19-16.37.19:419][689]LogSavePackage: Error: Error saving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4_Auto3.uasset'
+[2025.10.19-16.37.19:419][689]Warning: Error saving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4_Auto3.uasset'
+[2025.10.19-16.37.27:806][243]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4310.391602
+[2025.10.19-16.37.27:921][251]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.19-16.37.27:921][251]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4310.494141, Update Interval: 339.696655
+[2025.10.19-16.37.31:696][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.19-16.37.33:890][533]LogSlate: Window 'Check Out Assets' being destroyed
+[2025.10.19-16.37.33:894][533]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.19-16.37.33:950][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41] ([1] browsable assets)...
+[2025.10.19-16.37.33:950][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41]
+[2025.10.19-16.37.33:962][533]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41
+[2025.10.19-16.37.33:962][533]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_6542FB41573C4B1F45DDB76BB6E9618837AE2B56.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41.uasset'
+[2025.10.19-16.37.33:963][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_8A4BF308] ([1] browsable assets)...
+[2025.10.19-16.37.34:042][533]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_8A4BF308.CubeGridToolOutput_8A4BF308]
+[2025.10.19-16.37.34:042][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_8A4BF308]
+[2025.10.19-16.37.34:053][533]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_8A4BF308
+[2025.10.19-16.37.34:053][533]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_8A4BF3083F86E53348F660CFCA767F89CDC1BAF0.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_8A4BF308.uasset'
+[2025.10.19-16.37.34:054][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_E8362211] ([1] browsable assets)...
+[2025.10.19-16.37.34:063][533]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_E8362211.CubeGridToolOutput_E8362211]
+[2025.10.19-16.37.34:063][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_E8362211]
+[2025.10.19-16.37.34:075][533]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_E8362211
+[2025.10.19-16.37.34:075][533]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_E8362211EB99D3294B761219E51F21B52FB7EF50.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_E8362211.uasset'
+[2025.10.19-16.37.34:076][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_1F497434] ([1] browsable assets)...
+[2025.10.19-16.37.34:084][533]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_1F497434.CubeGridToolOutput_1F497434]
+[2025.10.19-16.37.34:084][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_1F497434]
+[2025.10.19-16.37.34:096][533]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_1F497434
+[2025.10.19-16.37.34:096][533]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_1F49743487CD489546895843BFC076887A400141.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_1F497434.uasset'
+[2025.10.19-16.37.34:097][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_2608D95C] ([1] browsable assets)...
+[2025.10.19-16.37.34:106][533]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_2608D95C.CubeGridToolOutput_2608D95C]
+[2025.10.19-16.37.34:106][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_2608D95C]
+[2025.10.19-16.37.34:115][533]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_2608D95C
+[2025.10.19-16.37.34:115][533]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_2608D95CCF4832CC4162F00FCA3022A097C1D9B5.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_2608D95C.uasset'
+[2025.10.19-16.37.34:116][533]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_5BAD078D] ([1] browsable assets)...
+[2025.10.19-16.37.34:125][533]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_5BAD078D.CubeGridToolOutput_5BAD078D]
+[2025.10.19-16.37.34:125][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_5BAD078D]
+[2025.10.19-16.37.34:136][533]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_5BAD078D
+[2025.10.19-16.37.34:136][533]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_5BAD078DDF796B4547E6282627EE23BF618FAEF3.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_5BAD078D.uasset'
+[2025.10.19-16.37.34:137][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_16FE268C] ([1] browsable assets)...
+[2025.10.19-16.37.34:137][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_16FE268C]
+[2025.10.19-16.37.34:147][533]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_16FE268C
+[2025.10.19-16.37.34:147][533]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_16FE268C5371513B469FA15C192425B4A8C21F20.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_16FE268C.uasset'
+[2025.10.19-16.37.34:152][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_2CB3C961] ([1] browsable assets)...
+[2025.10.19-16.37.34:152][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_2CB3C961]
+[2025.10.19-16.37.34:162][533]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_2CB3C961
+[2025.10.19-16.37.34:162][533]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_2CB3C961891CF54C40ECB208125930BC1BFF0D7F.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_2CB3C961.uasset'
+[2025.10.19-16.37.34:163][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4] ([1] browsable assets)...
+[2025.10.19-16.37.34:163][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4]
+[2025.10.19-16.37.34:179][533]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4
+[2025.10.19-16.37.34:179][533]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_3A7CF4F400B671564D1D4A72B1068392B884A3AD.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4.uasset'
+[2025.10.19-16.37.34:180][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B] ([1] browsable assets)...
+[2025.10.19-16.37.34:180][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B]
+[2025.10.19-16.37.34:192][533]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B
+[2025.10.19-16.37.34:193][533]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_6CAC4B7B2AA2EBDF4E6802E82A2BB18814FAF207.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B.uasset'
+[2025.10.19-16.37.34:194][533]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_82931FA3] ([1] browsable assets)...
+[2025.10.19-16.37.34:194][533]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_82931FA3]
+[2025.10.19-16.37.34:202][533]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_82931FA3
+[2025.10.19-16.37.34:203][533]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_82931FA3869EF2794B5CA45C589E6A8614850F07.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_82931FA3.uasset'
+[2025.10.19-16.37.34:246][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.10.19-16.37.34:369][533]LogSavePackage: Moving output files for package: /Game/Levels/Lvl_Office
+[2025.10.19-16.37.34:370][533]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Lvl_Office6C3AEC7848D86472B5A2839C09E3AB6B.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office.umap'
+[2025.10.19-16.37.34:387][533]LogFileHelpers: Saving map 'Lvl_Office' took 0.183
+[2025.10.19-16.37.34:400][533]LogFileHelpers: InternalPromptForCheckoutAndSave took 505.894 ms
+[2025.10.19-16.37.34:452][533]LogContentValidation: Display: Starting to validate 12 assets
+[2025.10.19-16.37.34:452][533]LogContentValidation: Enabled validators:
+[2025.10.19-16.37.34:452][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.19-16.37.34:452][533]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.19-16.37.34:452][533]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.19-16.37.34:452][533]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.19-16.37.34:452][533]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.19-16.37.34:452][533]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.19-16.37.34:453][533]AssetCheck: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_6542FB41 Validating asset
+[2025.10.19-16.37.34:453][533]AssetCheck: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_8A4BF308 Validating asset
+[2025.10.19-16.37.34:453][533]AssetCheck: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_E8362211 Validating asset
+[2025.10.19-16.37.34:453][533]AssetCheck: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_1F497434 Validating asset
+[2025.10.19-16.37.34:453][533]AssetCheck: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_2608D95C Validating asset
+[2025.10.19-16.37.34:453][533]AssetCheck: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_5BAD078D Validating asset
+[2025.10.19-16.37.34:453][533]AssetCheck: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_16FE268C Validating asset
+[2025.10.19-16.37.34:453][533]AssetCheck: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_2CB3C961 Validating asset
+[2025.10.19-16.37.34:453][533]AssetCheck: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_3A7CF4F4 Validating asset
+[2025.10.19-16.37.34:453][533]AssetCheck: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_6CAC4B7B Validating asset
+[2025.10.19-16.37.34:453][533]AssetCheck: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_82931FA3 Validating asset
+[2025.10.19-16.37.34:454][533]AssetCheck: /Game/Levels/Lvl_Office Validating asset
+[2025.10.19-16.37.34:471][533]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.19-16.39.52:396][294]Cmd: DELETE
+[2025.10.19-16.39.52:396][294]Cmd: ACTOR DELETE
+[2025.10.19-16.39.52:406][294]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.19-16.39.52:425][294]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.10.19-16.39.52:431][294]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.10.19-16.39.56:244][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.10.19-16.39.56:251][544]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.19-16.39.56:344][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.10.19-16.39.56:469][544]LogSavePackage: Moving output files for package: /Game/Levels/Lvl_Office
+[2025.10.19-16.39.56:470][544]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Lvl_OfficeC64F61E54EFD29F7138D6698CE2C2A63.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office.umap'
+[2025.10.19-16.39.56:487][544]LogFileHelpers: Saving map 'Lvl_Office' took 0.190
+[2025.10.19-16.39.56:499][544]LogFileHelpers: InternalPromptForCheckoutAndSave took 247.944 ms (total: 753.838 ms)
+[2025.10.19-16.39.56:562][544]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.19-16.39.56:562][544]LogContentValidation: Enabled validators:
+[2025.10.19-16.39.56:562][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.19-16.39.56:562][544]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.19-16.39.56:562][544]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.19-16.39.56:562][544]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.19-16.39.56:562][544]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.19-16.39.56:562][544]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.19-16.39.56:562][544]AssetCheck: /Game/Levels/Lvl_Office Validating asset
+[2025.10.19-16.40.01:873][888]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.19-16.40.01:945][888]LogStall: Shutdown...
+[2025.10.19-16.40.01:945][888]LogStall: Shutdown complete.
+[2025.10.19-16.40.01:992][888]LogSlate: Window 'SheepyStudios - Unreal Editor' being destroyed
+[2025.10.19-16.40.02:175][888]Cmd: QUIT_EDITOR
+[2025.10.19-16.40.02:175][889]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.19-16.40.02:181][889]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.19-16.40.02:181][889]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.19-16.40.02:181][889]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.19-16.40.02:187][889]LogWorld: UWorld::CleanupWorld for Lvl_Office, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-16.40.02:188][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-16.40.02:204][889]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.19-16.40.02:205][889]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.19-16.40.02:205][889]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.19-16.40.02:212][889]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-16.40.02:212][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-16.40.02:212][889]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.19-16.40.02:212][889]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.19-16.40.02:213][889]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.19-16.40.02:213][889]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.19-16.40.02:221][889]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.19-16.40.02:495][889]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.19-16.40.02:495][889]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.19-16.40.02:495][889]LogAudio: Display: Audio Device unregistered from world 'Lvl_Office'.
+[2025.10.19-16.40.02:495][889]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.19-16.40.02:495][889]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.19-16.40.02:496][889]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.19-16.40.02:500][889]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.19-16.40.02:501][889]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.19-16.40.02:502][889]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.10.19-16.40.02:503][889]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.19-16.40.02:504][889]LogExit: Preparing to exit.
+[2025.10.19-16.40.02:553][889]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.19-16.40.03:046][889]LogEditorDataStorage: Deinitializing
+[2025.10.19-16.40.03:184][889]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.19-16.40.03:208][889]LogExit: Editor shut down
+[2025.10.19-16.40.03:209][889]LogExit: Transaction tracking system shut down
+[2025.10.19-16.40.03:357][889]LogExit: Object subsystem successfully closed.
+[2025.10.19-16.40.03:468][889]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.19-16.40.03:534][889]LogMemoryProfiler: Shutdown
+[2025.10.19-16.40.03:535][889]LogNetworkingProfiler: Shutdown
+[2025.10.19-16.40.03:535][889]LoadingProfiler: Shutdown
+[2025.10.19-16.40.03:536][889]LogTimingProfiler: Shutdown
+[2025.10.19-16.40.03:538][889]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.19-16.40.03:538][889]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.19-16.40.03:844][889]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.19-16.40.03:883][889]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.19-16.40.03:883][889]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BBC92BE56-4ADB-E2E9-E4B7-7BA8D1B7DECE%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=3a0930394949efb1057efd83675dcfc6%7C96a622df389d4d4fbb885b997815bebc%7C20c843d0-be0f-4c0f-b02a-a9eb7556fd82&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.19-16.40.04:435][889]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.19-16.40.04:441][889]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.19-16.40.04:441][889]RenderDocPlugin: plugin has been unloaded.
+[2025.10.19-16.40.04:441][889]LogXGEController: Cleaning working directory: C:/Users/camer/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.19-16.40.04:443][889]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.19-16.40.04:443][889]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.19-16.40.04:443][889]LogPakFile: Destroying PakPlatformFile
+[2025.10.19-16.40.04:758][889]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.19-16.40.04:790][889]LogExit: Exiting.
+[2025.10.19-16.40.04:826][889]Log file closed, 10/19/25 12:40:04
