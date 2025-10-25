@@ -6,7 +6,6 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Minigames/BC_Fish_Trigger.uasset",
-				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/WB_Dialogue2.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/BP_NPC2.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office_Testing.umap",
@@ -29,6 +28,8 @@
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/DT_DialogueDataTableBoss.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/DT_DialogueDataTableProjectManager.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/WB_Dialogue.uasset",
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/BPI_Dialogue.uasset",
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/WB_Dialogue2.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/DT_DialogueDataTable.uasset",
 				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office_CODE_TESTINGJ.umap",
 				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/ObjectiveSystem/BP_ObjectiveVolume.uasset",
