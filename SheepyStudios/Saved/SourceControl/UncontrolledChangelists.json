@@ -5,14 +5,15 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Testing-char/Lvl_Garage_Char_Testing.umap",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Testing/Lvl_Art_Testing.umap",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Art_Testing.umap",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Map/BP_ArtTeleport.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/PauseMenu/WBP_PauseMenu.uasset",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Testing/Lvl_AI_Testing.umap",
 				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_AI_Testing.umap",
-				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Stalker/Car_ob.uasset"
+				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Stalker/Car_ob.uasset",
+				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Stalker/BP_Throwing_Trash.uasset",
+				"C:/Users/rappa/Documents/github/Sheepy-Studios/SheepyStudios/Content/Levels/Testing-char/Lvl_Garage_Char_Testing.umap"
 			]
 		}
 	]
