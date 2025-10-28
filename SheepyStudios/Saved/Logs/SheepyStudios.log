@@ -1795,3 +1795,217 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.28-15.33.40:347][ 30]AssetCheck: /Game/Levels/Lvl_Office Validating asset
 [2025.10.28-15.33.40:360][ 30]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
 [2025.10.28-15.33.40:368][ 30]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.28-15.35.10:894][351]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5626.537109
+[2025.10.28-15.35.11:894][354]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.35.11:894][354]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5627.204102, Update Interval: 304.098022
+[2025.10.28-15.35.23:556][389]LogShaderCompilers: Display: ================================================
+[2025.10.28-15.35.23:556][389]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.28-15.35.23:556][389]LogShaderCompilers: Display: Total job queries 1,280, among them cache hits 251 (19.61%), DDC hits 921 (71.95%), Duplicates 87 (6.80%)
+[2025.10.28-15.35.23:556][389]LogShaderCompilers: Display: Tracking 942 distinct input hashes that result in 774 distinct outputs (82.17%)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: RAM used: 7.96 MiB of 2.40 GiB budget. Usage: 0.32%
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Shaders Compiled: 21
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Jobs assigned 21, completed 21 (100%)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Average time worker was idle: 1152.78 s
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Time job spent in pending queue: average 0.15 s, longest 1.85 s
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Job execution time: average 1.88 s, max 3.94 s
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Job life time (pending + execution): average 2.02 s, max 4.00
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Shader code size: total 254.873 KiB, numShaders 22, average 11.585 KiB, min 3.777 KiB, max 22.574 KiB
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 10.28 s
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Average processing rate: 2.04 jobs/sec
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Total thread time: 27.068 s
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Total thread preprocess time: 20.761 s
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Percentage time preprocessing: 76.70%
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Effective parallelization: 2.63 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.329057
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.71 sec, max 2.71 sec, min 2.71 sec)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.70 sec, max 2.70 sec, min 2.70 sec)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.31 sec, max 2.31 sec, min 2.31 sec)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.23 sec, max 2.23 sec, min 2.23 sec)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    2 times, average 1.86 sec, max 2.17 sec, min 1.55 sec)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.77% of total time (compiled    3 times, average 1.60 sec, max 2.21 sec, min 1.08 sec)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.52% of total time (compiled    6 times, average 0.65 sec, max 1.14 sec, min 0.50 sec)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 13.71% of total time (compiled    2 times, average 1.86 sec, max 2.17 sec, min 1.55 sec)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 9.99% of total time (compiled    1 times, average 2.71 sec, max 2.71 sec, min 2.71 sec)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 9.96% of total time (compiled    1 times, average 2.70 sec, max 2.70 sec, min 2.70 sec)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: === Material stats ===
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Materials Translated:    172
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Material Translation Only: 0.08 s (56%)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: Material Cache Hits: 35 (20%)
+[2025.10.28-15.35.23:557][389]LogShaderCompilers: Display: ================================================
+[2025.10.28-15.38.13:904][365]Cmd: DELETE
+[2025.10.28-15.38.13:904][365]Cmd: ACTOR DELETE
+[2025.10.28-15.38.13:914][365]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-15.38.13:932][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.10.28-15.38.13:935][365]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.10.28-15.38.48:175][835]Cmd: TRANSACTION UNDO
+[2025.10.28-15.38.48:175][835]LogEditorTransaction: Undo Move Elements
+[2025.10.28-15.39.31:101][330]Cmd: DELETE
+[2025.10.28-15.39.31:101][330]Cmd: ACTOR DELETE
+[2025.10.28-15.39.31:110][330]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-15.39.31:128][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.10.28-15.39.31:132][330]LogEditorActor: Deleted 1 Actors (0.032 secs)
+[2025.10.28-15.39.32:642][448]Cmd: DELETE
+[2025.10.28-15.39.32:642][448]Cmd: ACTOR DELETE
+[2025.10.28-15.39.32:651][448]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-15.39.32:670][448]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.28-15.39.32:675][448]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.10.28-15.39.34:269][579]Cmd: DELETE
+[2025.10.28-15.39.34:269][579]Cmd: ACTOR DELETE
+[2025.10.28-15.39.34:280][579]LogEditorActor: Deleted Actor: RectLight
+[2025.10.28-15.39.34:298][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.28-15.39.34:302][579]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.10.28-15.40.10:963][190]Cmd: DELETE
+[2025.10.28-15.40.10:964][190]Cmd: ACTOR DELETE
+[2025.10.28-15.40.10:976][190]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-15.40.10:994][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.28-15.40.10:998][190]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.10.28-15.40.11:573][225]Cmd: DELETE
+[2025.10.28-15.40.11:573][225]Cmd: ACTOR DELETE
+[2025.10.28-15.40.11:582][225]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-15.40.11:599][225]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.10.28-15.40.11:604][225]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.10.28-15.40.12:241][263]Cmd: DELETE
+[2025.10.28-15.40.12:241][263]Cmd: ACTOR DELETE
+[2025.10.28-15.40.12:250][263]LogEditorActor: Deleted Actor: RectLight
+[2025.10.28-15.40.12:266][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.10.28-15.40.12:271][263]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2025.10.28-15.40.13:202][325]Cmd: DELETE
+[2025.10.28-15.40.13:202][325]Cmd: ACTOR DELETE
+[2025.10.28-15.40.13:211][325]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-15.40.13:227][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.10.28-15.40.13:230][325]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.10.28-15.40.14:020][379]Cmd: DELETE
+[2025.10.28-15.40.14:020][379]Cmd: ACTOR DELETE
+[2025.10.28-15.40.14:029][379]LogEditorActor: Deleted Actor: RectLight
+[2025.10.28-15.40.14:046][379]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.10.28-15.40.14:050][379]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.10.28-15.40.14:585][418]Cmd: DELETE
+[2025.10.28-15.40.14:585][418]Cmd: ACTOR DELETE
+[2025.10.28-15.40.14:594][418]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-15.40.14:609][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.10.28-15.40.14:612][418]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2025.10.28-15.40.38:355][117]Cmd: TRANSACTION UNDO
+[2025.10.28-15.40.38:355][117]LogEditorTransaction: Undo Move Elements
+[2025.10.28-15.40.42:539][401]Cmd: TRANSACTION UNDO
+[2025.10.28-15.40.42:539][401]LogEditorTransaction: Undo Move Elements
+[2025.10.28-15.41.15:548][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5991.174805
+[2025.10.28-15.41.15:654][766]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.41.15:654][766]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5991.266602, Update Interval: 302.684418
+[2025.10.28-15.41.41:656][586]Cmd: DELETE
+[2025.10.28-15.41.41:656][586]Cmd: ACTOR DELETE
+[2025.10.28-15.41.41:668][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-15.41.41:690][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.28-15.41.41:694][586]LogEditorActor: Deleted 1 Actors (0.038 secs)
+[2025.10.28-15.41.42:210][615]Cmd: DELETE
+[2025.10.28-15.41.42:210][615]Cmd: ACTOR DELETE
+[2025.10.28-15.41.42:220][615]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-15.41.42:237][615]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.28-15.41.42:241][615]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.10.28-15.41.43:800][730]Cmd: DELETE
+[2025.10.28-15.41.43:801][730]Cmd: ACTOR DELETE
+[2025.10.28-15.41.43:809][730]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-15.41.43:825][730]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.10.28-15.41.43:829][730]LogEditorActor: Deleted 1 Actors (0.028 secs)
+[2025.10.28-15.41.44:646][783]Cmd: DELETE
+[2025.10.28-15.41.44:646][783]Cmd: ACTOR DELETE
+[2025.10.28-15.41.44:655][783]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.10.28-15.41.44:675][783]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.28-15.41.44:679][783]LogEditorActor: Deleted 1 Actors (0.033 secs)
+[2025.10.28-15.41.45:152][814]Cmd: DELETE
+[2025.10.28-15.41.45:153][814]Cmd: ACTOR DELETE
+[2025.10.28-15.41.45:161][814]LogEditorActor: Deleted Actor: RectLight
+[2025.10.28-15.41.45:180][814]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.10.28-15.41.45:184][814]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2025.10.28-15.41.46:085][879]Cmd: DELETE
+[2025.10.28-15.41.46:085][879]Cmd: ACTOR DELETE
+[2025.10.28-15.41.46:094][879]LogEditorActor: Deleted Actor: RectLight
+[2025.10.28-15.41.46:113][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.10.28-15.41.46:116][879]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2025.10.28-15.42.18:416][186]Cmd: TRANSACTION UNDO
+[2025.10.28-15.42.18:416][186]LogEditorTransaction: Undo Move Elements
+[2025.10.28-15.43.41:480][401]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.28-15.43.46:048][401]LogSlate: Window 'Message' being destroyed
+[2025.10.28-15.43.46:055][401]Message dialog closed, result: Ok, title: Message, text: Unable to save package to ../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/Lvl_Office_Auto1.umap because the file is read-only!
+[2025.10.28-15.43.46:055][401]LogFileHelpers: Editor autosave (incl. sublevels) failed for file '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Autosaves/Game/Levels/Lvl_Office_Auto1.umap' which belongs to world '/Game/Levels/Lvl_Office'. Aborting autosave.
+[2025.10.28-15.43.48:299][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.10.28-15.43.50:713][532]LogSlate: Window 'Check Out Assets' being destroyed
+[2025.10.28-15.43.50:743][532]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-15.43.50:851][532]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.10.28-15.43.50:974][532]LogSavePackage: Moving output files for package: /Game/Levels/Lvl_Office
+[2025.10.28-15.43.50:975][532]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Lvl_Office6A49DCAD4227063B68FD13A1BC3284A4.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office.umap'
+[2025.10.28-15.43.50:993][532]LogFileHelpers: Saving map 'Lvl_Office' took 0.189
+[2025.10.28-15.43.51:000][532]LogFileHelpers: InternalPromptForCheckoutAndSave took 256.728 ms (total: 1.24 sec)
+[2025.10.28-15.43.51:053][532]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.28-15.43.51:053][532]LogContentValidation: Enabled validators:
+[2025.10.28-15.43.51:053][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-15.43.51:053][532]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-15.43.51:053][532]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-15.43.51:053][532]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-15.43.51:053][532]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-15.43.51:053][532]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-15.43.51:053][532]AssetCheck: /Game/Levels/Lvl_Office Validating asset
+[2025.10.28-15.43.53:130][669]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.10.28-15.43.53:214][669]LogStall: Shutdown...
+[2025.10.28-15.43.53:214][669]LogStall: Shutdown complete.
+[2025.10.28-15.43.53:266][669]LogSlate: Window 'SheepyStudios - Unreal Editor' being destroyed
+[2025.10.28-15.43.53:424][669]Cmd: QUIT_EDITOR
+[2025.10.28-15.43.53:424][670]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.10.28-15.43.53:434][670]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.10.28-15.43.53:436][670]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.10.28-15.43.53:436][670]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.10.28-15.43.53:445][670]LogWorld: UWorld::CleanupWorld for Lvl_Office, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-15.43.53:449][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-15.43.53:474][670]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
+[2025.10.28-15.43.53:474][670]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.28-15.43.53:481][670]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.28-15.43.53:491][670]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-15.43.53:491][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-15.43.53:493][670]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-15.43.53:493][670]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-15.43.53:498][670]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.28-15.43.53:499][670]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.28-15.43.53:505][670]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.28-15.43.53:756][670]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.28-15.43.53:756][670]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.28-15.43.53:757][670]LogAudio: Display: Audio Device unregistered from world 'Lvl_Office'.
+[2025.10.28-15.43.53:757][670]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.28-15.43.53:757][670]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.28-15.43.53:758][670]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.28-15.43.53:762][670]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.28-15.43.53:762][670]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.28-15.43.53:762][670]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2025.10.28-15.43.53:766][670]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.28-15.43.53:768][670]LogExit: Preparing to exit.
+[2025.10.28-15.43.53:834][670]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.10.28-15.43.54:461][670]LogEditorDataStorage: Deinitializing
+[2025.10.28-15.43.54:674][670]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.10.28-15.43.54:740][670]LogExit: Editor shut down
+[2025.10.28-15.43.54:743][670]LogExit: Transaction tracking system shut down
+[2025.10.28-15.43.55:195][670]LogExit: Object subsystem successfully closed.
+[2025.10.28-15.43.55:254][670]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.10.28-15.43.55:445][670]LogMemoryProfiler: Shutdown
+[2025.10.28-15.43.55:448][670]LogNetworkingProfiler: Shutdown
+[2025.10.28-15.43.55:448][670]LoadingProfiler: Shutdown
+[2025.10.28-15.43.55:450][670]LogTimingProfiler: Shutdown
+[2025.10.28-15.43.55:460][670]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDGenericDebugDrawExtension] ...
+[2025.10.28-15.43.55:461][670]LogChaosVDEditor: [FChaosVDExtensionsManager::UnRegisterExtension] UnRegistering CVD Extension [FChaosVDAccelerationStructuresExtension] ...
+[2025.10.28-15.43.55:857][670]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.10.28-15.43.55:903][670]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.10.28-15.43.55:904][670]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BC00EA394-471C-5374-F62C-0DAFC93F96B2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=3a0930394949efb1057efd83675dcfc6%7C96a622df389d4d4fbb885b997815bebc%7C20c843d0-be0f-4c0f-b02a-a9eb7556fd82&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.10.28-15.43.56:436][670]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.10.28-15.43.56:437][670]RenderDocPlugin: plugin has been unloaded.
+[2025.10.28-15.43.56:437][670]LogNFORDenoise: NFORDenoise function shutting down
+[2025.10.28-15.43.56:446][670]LogXGEController: Cleaning working directory: C:/Users/camer/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.10.28-15.43.56:455][670]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.10.28-15.43.56:455][670]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.10.28-15.43.56:455][670]LogPakFile: Destroying PakPlatformFile
+[2025.10.28-15.43.56:782][670]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.10.28-15.43.56:813][670]LogExit: Exiting.
+[2025.10.28-15.43.56:840][670]Log file closed, 10/28/25 11:43:56
