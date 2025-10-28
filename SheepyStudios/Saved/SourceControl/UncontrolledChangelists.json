@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office.umap",
+				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_6EE964C3.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_E234711C.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/OfficeModels/Materials/M_officeCeiling.uasset",
 				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/PhoneMenu/WBP_PhoneMenu.uasset",
 				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/PauseMenu/Pause_Screen__Resume_Selected.uasset",
 				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/PauseMenu/Settings_Menu__Accessibility.uasset",
