@@ -1623,3 +1623,175 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.28-14.47.50:740][495]AssetCheck: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_E234711C Validating asset
 [2025.10.28-14.47.50:740][495]AssetCheck: /Game/OfficeModels/Materials/M_officeCeiling Validating asset
 [2025.10.28-14.47.50:751][495]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/SourceControl/UncontrolledChangelists.json
+[2025.10.28-14.53.24:362][836]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3119.886963
+[2025.10.28-14.53.25:362][839]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-14.53.25:362][839]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3120.553711, Update Interval: 311.622070
+[2025.10.28-14.59.16:746][893]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3472.265625
+[2025.10.28-14.59.17:746][896]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-14.59.17:746][896]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3472.932129, Update Interval: 304.819489
+[2025.10.28-15.02.35:900][491]LogDerivedDataCache: C:/Users/camer/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.28-15.05.03:121][932]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3818.637207
+[2025.10.28-15.05.04:122][935]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.05.04:122][935]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3819.304932, Update Interval: 314.972992
+[2025.10.28-15.11.04:184][ 15]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4179.705566
+[2025.10.28-15.11.05:184][ 18]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.11.05:185][ 18]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4180.372070, Update Interval: 301.693787
+[2025.10.28-15.16.59:892][ 82]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4535.455566
+[2025.10.28-15.17.00:892][ 85]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.17.00:892][ 85]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4536.122559, Update Interval: 317.780090
+[2025.10.28-15.22.50:271][133]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4885.867676
+[2025.10.28-15.22.51:271][136]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.22.51:271][136]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4886.534180, Update Interval: 339.714966
+[2025.10.28-15.29.28:233][730]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5283.854980
+[2025.10.28-15.29.28:337][738]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.28-15.29.28:337][738]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5283.946289, Update Interval: 302.662445
+[2025.10.28-15.30.01:319][  0]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.28-15.30.01:327][  0]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.28-15.30.01:327][  0]LogPlayLevel: Creating play world package: /Game/Levels/UEDPIE_0_Lvl_Office
+[2025.10.28-15.30.01:366][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:366][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:372][  0]LogPlayLevel: PIE: StaticDuplicateObject took: (0.045248s)
+[2025.10.28-15.30.01:372][  0]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Lvl_Office.Lvl_Office to /Game/Levels/UEDPIE_0_Lvl_Office.Lvl_Office (0.045279s)
+[2025.10.28-15.30.01:389][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.28-15.30.01:392][  0]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_Office
+[2025.10.28-15.30.01:394][  0]LogPlayLevel: PIE: World Init took: (0.001683s)
+[2025.10.28-15.30.01:395][  0]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.10.28-15.30.01:395][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.28-15.30.01:395][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.28-15.30.01:395][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.28-15.30.01:395][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.28-15.30.01:395][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.28-15.30.01:395][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.28-15.30.01:395][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.28-15.30.01:395][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.28-15.30.01:395][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.28-15.30.01:395][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.28-15.30.01:395][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.28-15.30.01:397][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.28-15.30.01:432][  0]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 7)
+[2025.10.28-15.30.01:433][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.28-15.30.01:433][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.28-15.30.01:433][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.28-15.30.01:433][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.10.28-15.30.01:433][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.10.28-15.30.01:436][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.10.28-15.30.01:436][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.10.28-15.30.01:436][  0]LogInit: FAudioDevice initialized with ID 4.
+[2025.10.28-15.30.01:436][  0]LogAudio: Display: Audio Device (ID: 4) registered with world 'Lvl_Office'.
+[2025.10.28-15.30.01:436][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.28-15.30.01:439][  0]LogLoad: Game class is 'BP_GameMode_C'
+[2025.10.28-15.30.01:440][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:440][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:440][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:452][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:452][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:452][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:452][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:452][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:452][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:452][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:452][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:452][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:457][  0]LogWorld: Bringing World /Game/Levels/UEDPIE_0_Lvl_Office.Lvl_Office up for play (max tick rate 0) at 2025.10.28-11.30.01
+[2025.10.28-15.30.01:458][  0]LogWorld: Bringing up level for play took: 0.019069
+[2025.10.28-15.30.01:460][  0]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.10.28-15.30.01:461][  0]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.28-15.30.01:462][  0]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.28-15.30.01:463][  0]LogBlueprintUserMessages: [BP_Character_C_0] Hello
+[2025.10.28-15.30.01:463][  0]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.10.28-15.30.01:464][  0]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/UEDPIE_0_Lvl_Office.Lvl_Office:PersistentLevel.BP_Character_C_0
+[2025.10.28-15.30.01:464][  0]PIE: Server logged in
+[2025.10.28-15.30.01:466][  0]PIE: Play in editor total start time 0.14 seconds.
+[2025.10.28-15.30.01:478][  0]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.30.01:527][  1]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.28-15.30.11:034][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-15.30.11:034][692]LogWorld: BeginTearingDown for /Game/Levels/UEDPIE_0_Lvl_Office
+[2025.10.28-15.30.11:034][692]LogWorld: UWorld::CleanupWorld for Lvl_Office, bSessionEnded=true, bCleanupResources=true
+[2025.10.28-15.30.11:040][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-15.30.11:041][692]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.28-15.30.11:043][692]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.28-15.30.11:061][692]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.28-15.30.11:062][692]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.28-15.30.11:063][692]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.10.28-15.30.11:064][692]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.10.28-15.30.11:072][692]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.28-15.30.11:072][692]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.28-15.30.11:073][692]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.28-15.30.11:140][693]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: ================================================
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Total job queries 1,242, among them cache hits 235 (18.92%), DDC hits 907 (73.03%), Duplicates 87 (7.00%)
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Tracking 920 distinct input hashes that result in 760 distinct outputs (82.61%)
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: RAM used: 7.87 MiB of 2.40 GiB budget. Usage: 0.32%
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Shaders Compiled: 13
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Jobs assigned 13, completed 13 (100%)
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Average time worker was idle: 1682.14 s
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Time job spent in pending queue: average 0.20 s, longest 1.85 s
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Job execution time: average 2.46 s, max 3.94 s
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Job life time (pending + execution): average 2.65 s, max 4.00
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Shader code size: total 186.412 KiB, numShaders 13, average 14.339 KiB, min 5.738 KiB, max 22.574 KiB
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.56 s
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Jobs were issued in 13 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Average processing rate: 1.98 jobs/sec
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Total thread time: 20.85 s
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Total thread preprocess time: 20.253 s
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Percentage time preprocessing: 97.14%
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Effective parallelization: 3.18 (times faster than compiling all shaders on one thread). Compare with number of workers: 8 - 0.397317
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight (compiled    1 times, average 2.71 sec, max 2.71 sec, min 2.71 sec)
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy (compiled    1 times, average 2.70 sec, max 2.70 sec, min 2.70 sec)
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display:                                                 FLumenCardCS (compiled    1 times, average 2.31 sec, max 2.31 sec, min 2.31 sec)
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 2.23 sec, max 2.23 sec, min 2.23 sec)
+[2025.10.28-15.32.23:308][401]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    2 times, average 1.87 sec, max 2.21 sec, min 1.52 sec)
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 17.90% of total time (compiled    2 times, average 1.87 sec, max 2.21 sec, min 1.52 sec)
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS - 17.80% of total time (compiled    2 times, average 1.86 sec, max 2.17 sec, min 1.55 sec)
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display:                         TBasePassCSFNoLightMapPolicySkylight - 12.98% of total time (compiled    1 times, average 2.71 sec, max 2.71 sec, min 2.71 sec)
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display:                                 TBasePassCSFNoLightMapPolicy - 12.93% of total time (compiled    1 times, average 2.70 sec, max 2.70 sec, min 2.70 sec)
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display:                                                 FLumenCardCS - 11.07% of total time (compiled    1 times, average 2.31 sec, max 2.31 sec, min 2.31 sec)
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display: === Material stats ===
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display: Materials Translated:    172
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display: Material Total Translate Time: 0.14 s
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display: Material Translation Only: 0.08 s (56%)
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (2%)
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display: Material Cache Hits: 35 (20%)
+[2025.10.28-15.32.23:309][401]LogShaderCompilers: Display: ================================================
+[2025.10.28-15.33.21:457][143]LogInteractiveToolsContext: Display: Select grid cells and push/pull them to create geometry. Refer to side panel for shortcuts.
+[2025.10.28-15.33.21:464][143]LogInteractiveToolsContext: Warning: Editing existing asset.
+[2025.10.28-15.33.32:019][900]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_4184153D (Required Memory Estimate: 0.798062 MB)...
+[2025.10.28-15.33.32:021][900]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_4184153D.CubeGridToolOutput_4184153D
+[2025.10.28-15.33.33:587][900]LogMeshUtilities: Finished distance field build in 1.6s - 126x119x119 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 66% occupied, 0 triangles, CubeGridToolOutput_4184153D
+[2025.10.28-15.33.35:164][900]LogMeshUtilities: Finished distance field build in 1.6s - 126x119x119 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 66% occupied, 0 triangles, CubeGridToolOutput_4184153D
+[2025.10.28-15.33.35:165][900]LogStaticMesh: Display: Building static mesh CubeGridToolOutput_4184153D (Required Memory Estimate: 0.791513 MB)...
+[2025.10.28-15.33.35:168][900]LogStaticMesh: Built static mesh [0.00s] /Game/Levels/_GENERATED/camer/CubeGridToolOutput_4184153D.CubeGridToolOutput_4184153D
+[2025.10.28-15.33.36:811][975]LogMeshUtilities: Finished distance field build in 1.6s - 126x119x119 sparse distance field, 2.1Mb total, 0.1Mb always loaded, 66% occupied, 0 triangles, CubeGridToolOutput_4184153D
+[2025.10.28-15.33.37:610][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.28-15.33.39:916][ 30]LogSlate: Window 'Check Out Assets' being destroyed
+[2025.10.28-15.33.39:922][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.28-15.33.39:980][ 30]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_4184153D] ([1] browsable assets)...
+[2025.10.28-15.33.40:065][ 30]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/Levels/_GENERATED/camer/CubeGridToolOutput_4184153D.CubeGridToolOutput_4184153D]
+[2025.10.28-15.33.40:065][ 30]OBJ SavePackage: Finished generating thumbnails for package [/Game/Levels/_GENERATED/camer/CubeGridToolOutput_4184153D]
+[2025.10.28-15.33.40:076][ 30]LogSavePackage: Moving output files for package: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_4184153D
+[2025.10.28-15.33.40:077][ 30]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/CubeGridToolOutput_4184153D636FDC6A4DECB71594302B829FA90614.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_4184153D.uasset'
+[2025.10.28-15.33.40:123][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.10.28-15.33.40:253][ 30]LogSavePackage: Moving output files for package: /Game/Levels/Lvl_Office
+[2025.10.28-15.33.40:253][ 30]LogSavePackage: Moving '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/Lvl_OfficeCD9603A94C4126C045AC4AB82593634F.tmp' to '../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office.umap'
+[2025.10.28-15.33.40:272][ 30]LogFileHelpers: Saving map 'Lvl_Office' took 0.194
+[2025.10.28-15.33.40:286][ 30]LogFileHelpers: InternalPromptForCheckoutAndSave took 364.170 ms (total: 991.940 ms)
+[2025.10.28-15.33.40:347][ 30]LogContentValidation: Display: Starting to validate 2 assets
+[2025.10.28-15.33.40:347][ 30]LogContentValidation: Enabled validators:
+[2025.10.28-15.33.40:347][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.28-15.33.40:347][ 30]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.28-15.33.40:347][ 30]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.28-15.33.40:347][ 30]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.28-15.33.40:347][ 30]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.28-15.33.40:347][ 30]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.28-15.33.40:347][ 30]AssetCheck: /Game/Levels/_GENERATED/camer/CubeGridToolOutput_4184153D Validating asset
+[2025.10.28-15.33.40:347][ 30]AssetCheck: /Game/Levels/Lvl_Office Validating asset
+[2025.10.28-15.33.40:360][ 30]LogStaticMesh: Warning: Invalid material [M_fishBowl] used on Nanite static mesh [Fishbowl]. Only opaque or masked blend modes are currently supported, [BLEND_Translucent] blend mode was specified. (NOTE: "Disallow Nanite" on static mesh components can be used to suppress this warning and forcibly render the object as non-Nanite.)
+[2025.10.28-15.33.40:368][ 30]LogSourceControl: Display: Uncontrolled Changelist persistency file saved ../../../../../../GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Saved/SourceControl/UncontrolledChangelists.json
