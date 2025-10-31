@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/rafaf/Documents/WorkshopGit2/Sheepy-Studios/SheepyStudios/Content/GarageModels/Materials/M_CarOffWhite.uasset",
+				"C:/Users/rafaf/Documents/WorkshopGit2/Sheepy-Studios/SheepyStudios/Content/GarageModels/Materials/M_CarWindshield.uasset",
+				"C:/Users/rafaf/Documents/WorkshopGit2/Sheepy-Studios/SheepyStudios/Content/GarageModels/Materials/M_CarMirror.uasset",
+				"C:/Users/rafaf/Documents/WorkshopGit2/Sheepy-Studios/SheepyStudios/Content/GarageModels/Meshes/CarNPC2.uasset",
+				"C:/Users/rafaf/Documents/WorkshopGit2/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Art_Testing.umap",
 				"C:/Users/theve/OneDrive/Documents/Unreal Projects/Sheepy-Studios/SheepyStudios/Content/OfficeModels/Meshes/SM_waterCooler.uasset",
 				"C:/Users/theve/OneDrive/Documents/Unreal Projects/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Art_Testing.umap",
 				"C:/Users/theve/OneDrive/Documents/Unreal Projects/Sheepy-Studios/SheepyStudios/Content/OfficeModels/Materials/M_officeCarpet_NEW.uasset",
