@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Office.umap",
+				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Blueprints/Map/InteractInterface.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Blueprints/Map/BP_Door.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/IA_InteractDoor.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Characters/Inputs/IMC_Player.uasset",
+				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/_GENERATED/camer/CubeGridToolOutput_B955CE7A.uasset",
 				"D:/SchoolWork/Workshop/WYDS_Repo/Sheepy-Studios/SheepyStudios/Content/OfficeModels/Meshes/ClutterObjects/SM_CoffeeCup.uasset",
 				"D:/SchoolWork/Workshop/WYDS_Repo/Sheepy-Studios/SheepyStudios/Content/OfficeModels/Meshes/ClutterObjects/SM_CoffeeLid.uasset",
 				"D:/SchoolWork/Workshop/WYDS_Repo/Sheepy-Studios/SheepyStudios/Content/OfficeModels/Meshes/ClutterObjects/SM_CoffeeLiquid.uasset",
