@@ -1540,3 +1540,445 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.31-19.28.12:324][254]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
 [2025.10.31-19.28.12:324][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
 [2025.10.31-19.28.12:397][255]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.10.31-19.29.06:311][645]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_Character.BP_Character
+[2025.10.31-19.29.06:311][645]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.31-19.29.06:373][645]LogStreaming: Display: FlushAsyncLoading(333): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.31-19.29.07:666][645]LogSlate: Took 0.005564 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.31-19.31.15:013][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.10.31-19.31.18:645][691]LogSlate: Window 'Check Out Assets' being destroyed
+[2025.10.31-19.31.18:650][691]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-19.31.18:683][691]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_Character] ([2] browsable assets)...
+[2025.10.31-19.31.18:683][691]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Character]
+[2025.10.31-19.31.18:733][691]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_Character
+[2025.10.31-19.31.18:733][691]LogSavePackage: Moving '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Saved/BP_Character4CB97ACA4375D69BA52B73AEAC29F5A8.tmp' to '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset'
+[2025.10.31-19.31.18:743][691]LogFileHelpers: InternalPromptForCheckoutAndSave took 93.150 ms (total: 240.067 ms)
+[2025.10.31-19.31.18:776][691]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-19.31.18:776][691]LogContentValidation: Enabled validators:
+[2025.10.31-19.31.18:776][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-19.31.18:776][691]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-19.31.18:776][691]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-19.31.18:776][691]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-19.31.18:776][691]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-19.31.18:776][691]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-19.31.18:776][691]AssetCheck: /Game/Blueprints/Player/BP_Character Validating asset
+[2025.10.31-19.31.20:184][853]LogSlate: Window 'BP_Character' being destroyed
+[2025.10.31-19.31.20:189][853]LogSlate: Window 'BP_Character' being destroyed
+[2025.10.31-19.31.20:226][853]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.31-19.31.20:226][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.31-19.31.20:319][853]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.31-19.31.21:374][978]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.31-19.31.21:378][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.31-19.31.21:416][978]LogPlayLevel: Creating play world package: /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing
+[2025.10.31-19.31.21:418][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002819s)
+[2025.10.31-19.31.21:418][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing/Lvl_AI_Testing.Lvl_AI_Testing to /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing.Lvl_AI_Testing (0.002856s)
+[2025.10.31-19.31.21:435][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.10.31-19.31.21:437][978]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_AI_Testing
+[2025.10.31-19.31.21:438][978]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2025.10.31-19.31.21:438][978]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.31-19.31.21:438][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.31-19.31.21:438][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.31-19.31.21:438][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.31-19.31.21:438][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.31-19.31.21:438][978]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.31-19.31.21:438][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.31-19.31.21:438][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.31-19.31.21:438][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.31-19.31.21:438][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.31-19.31.21:438][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.31-19.31.21:438][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.31-19.31.21:440][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.31-19.31.21:461][978]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.31-19.31.21:461][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.31-19.31.21:461][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.31-19.31.21:461][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.31-19.31.21:461][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.31-19.31.21:461][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.31-19.31.21:463][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.31-19.31.21:463][978]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.31-19.31.21:463][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.31-19.31.21:463][978]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_AI_Testing'.
+[2025.10.31-19.31.21:463][978]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.31-19.31.21:467][978]LogLoad: Game class is 'BP_GameMode_C'
+[2025.10.31-19.31.21:467][978]LogWorld: Bringing World /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing.Lvl_AI_Testing up for play (max tick rate 0) at 2025.10.31-15.31.21
+[2025.10.31-19.31.21:468][978]LogWorld: Bringing up level for play took: 0.001195
+[2025.10.31-19.31.21:469][978]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.10.31-19.31.21:470][978]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.31-19.31.21:470][978]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.31-19.31.21:471][978]LogBlueprintUserMessages: [BP_Character_C_0] Hello
+[2025.10.31-19.31.21:471][978]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.10.31-19.31.21:471][978]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing.Lvl_AI_Testing:PersistentLevel.BP_Character_C_0
+[2025.10.31-19.31.21:472][978]PIE: Server logged in
+[2025.10.31-19.31.21:473][978]PIE: Play in editor total start time 0.094 seconds.
+[2025.10.31-19.31.21:505][979]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.31-19.31.23:799][252]LogCharacter: BP_Character_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.10.31-19.31.28:557][823]LogCharacter: BP_Character_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.10.31-19.31.30:486][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.31-19.31.30:486][ 51]LogWorld: BeginTearingDown for /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing
+[2025.10.31-19.31.30:486][ 51]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.31-19.31.30:487][ 51]LogWorld: UWorld::CleanupWorld for Lvl_AI_Testing, bSessionEnded=true, bCleanupResources=true
+[2025.10.31-19.31.30:487][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.31-19.31.30:488][ 51]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.31-19.31.30:492][ 51]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.31-19.31.30:508][ 51]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.31-19.31.30:508][ 51]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.31-19.31.30:508][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.10.31-19.31.30:510][ 51]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.10.31-19.31.30:513][ 51]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.31-19.31.30:513][ 51]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.31-19.31.30:514][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2025.10.31-19.31.30:595][ 52]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.10.31-19.31.34:071][456]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_Character.BP_Character
+[2025.10.31-19.31.34:072][456]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.31-19.31.56:452][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.10.31-19.31.57:123][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-19.31.57:144][833]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_Character] ([2] browsable assets)...
+[2025.10.31-19.31.57:144][833]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Character]
+[2025.10.31-19.31.57:190][833]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_Character
+[2025.10.31-19.31.57:190][833]LogSavePackage: Moving '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Saved/BP_Character88D5002E4208B32EB518758EFB6EFC40.tmp' to '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset'
+[2025.10.31-19.31.57:197][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 73.917 ms (total: 313.984 ms)
+[2025.10.31-19.31.57:227][833]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-19.31.57:227][833]LogContentValidation: Enabled validators:
+[2025.10.31-19.31.57:227][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-19.31.57:227][833]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-19.31.57:227][833]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-19.31.57:227][833]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-19.31.57:227][833]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-19.31.57:227][833]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-19.31.57:227][833]AssetCheck: /Game/Blueprints/Player/BP_Character Validating asset
+[2025.10.31-19.31.59:152][ 60]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.31-19.31.59:157][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.31-19.31.59:157][ 60]LogPlayLevel: Creating play world package: /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing
+[2025.10.31-19.31.59:160][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002710s)
+[2025.10.31-19.31.59:160][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing/Lvl_AI_Testing.Lvl_AI_Testing to /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing.Lvl_AI_Testing (0.002739s)
+[2025.10.31-19.31.59:179][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.10.31-19.31.59:189][ 60]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_AI_Testing
+[2025.10.31-19.31.59:190][ 60]LogPlayLevel: PIE: World Init took: (0.001183s)
+[2025.10.31-19.31.59:190][ 60]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.10.31-19.31.59:190][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.31-19.31.59:190][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.31-19.31.59:190][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.31-19.31.59:190][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.31-19.31.59:190][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.31-19.31.59:190][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.31-19.31.59:190][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.31-19.31.59:190][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.31-19.31.59:190][ 60]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.31-19.31.59:190][ 60]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.31-19.31.59:190][ 60]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.31-19.31.59:193][ 60]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.31-19.31.59:212][ 60]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.31-19.31.59:212][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.31-19.31.59:212][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.31-19.31.59:212][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.31-19.31.59:212][ 60]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.10.31-19.31.59:212][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.10.31-19.31.59:214][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.10.31-19.31.59:214][ 60]LogInit: FAudioDevice initialized with ID 6.
+[2025.10.31-19.31.59:214][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.10.31-19.31.59:214][ 60]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_AI_Testing'.
+[2025.10.31-19.31.59:214][ 60]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.31-19.31.59:216][ 60]LogLoad: Game class is 'BP_GameMode_C'
+[2025.10.31-19.31.59:217][ 60]LogWorld: Bringing World /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing.Lvl_AI_Testing up for play (max tick rate 0) at 2025.10.31-15.31.59
+[2025.10.31-19.31.59:218][ 60]LogWorld: Bringing up level for play took: 0.001201
+[2025.10.31-19.31.59:219][ 60]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.10.31-19.31.59:220][ 60]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.31-19.31.59:220][ 60]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.31-19.31.59:221][ 60]LogBlueprintUserMessages: [BP_Character_C_0] Hello
+[2025.10.31-19.31.59:221][ 60]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.10.31-19.31.59:221][ 60]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing.Lvl_AI_Testing:PersistentLevel.BP_Character_C_0
+[2025.10.31-19.31.59:221][ 60]PIE: Server logged in
+[2025.10.31-19.31.59:222][ 60]PIE: Play in editor total start time 0.066 seconds.
+[2025.10.31-19.31.59:253][ 61]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.31-19.32.03:245][538]LogCharacter: BP_Character_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.10.31-19.32.03:245][538]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.32.03:369][553]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.32.03:512][570]LogCharacter: BP_Character_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.10.31-19.32.03:512][570]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.32.03:612][582]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.32.03:986][627]LogCharacter: BP_Character_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.10.31-19.32.03:987][627]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.32.04:386][675]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.32.04:894][736]LogCharacter: BP_Character_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.10.31-19.32.04:894][736]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.32.05:528][812]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.32.06:020][871]LogCharacter: BP_Character_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.10.31-19.32.06:020][871]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.32.06:538][933]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.32.09:361][272]LogCharacter: BP_Character_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.10.31-19.32.09:362][272]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.32.10:154][367]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.32.10:862][452]LogCharacter: BP_Character_C_0 is trying to crouch, but crouching is disabled on this character! (check CharacterMovement NavAgentSettings)
+[2025.10.31-19.32.10:862][452]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.32.11:053][475]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.32.11:416][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.31-19.32.11:416][515]LogWorld: BeginTearingDown for /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing
+[2025.10.31-19.32.11:416][515]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.31-19.32.11:417][515]LogWorld: UWorld::CleanupWorld for Lvl_AI_Testing, bSessionEnded=true, bCleanupResources=true
+[2025.10.31-19.32.11:417][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.31-19.32.11:418][515]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.31-19.32.11:423][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.31-19.32.11:438][515]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.31-19.32.11:438][515]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.31-19.32.11:438][515]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.10.31-19.32.11:440][515]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.10.31-19.32.11:444][515]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.31-19.32.11:445][515]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.31-19.32.11:445][515]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.31-19.32.11:446][515]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.31-19.32.11:519][516]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.10.31-19.32.49:631][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-19.32.49:659][ 27]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_Character] ([2] browsable assets)...
+[2025.10.31-19.32.49:659][ 27]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Character]
+[2025.10.31-19.32.49:708][ 27]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_Character
+[2025.10.31-19.32.49:709][ 27]LogSavePackage: Moving '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Saved/BP_CharacterF0E2A4C04B30080E446FFE9AB6F46CE3.tmp' to '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset'
+[2025.10.31-19.32.49:717][ 27]LogFileHelpers: InternalPromptForCheckoutAndSave took 86.657 ms (total: 400.641 ms)
+[2025.10.31-19.32.49:752][ 27]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-19.32.49:752][ 27]LogContentValidation: Enabled validators:
+[2025.10.31-19.32.49:752][ 27]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-19.32.49:752][ 27]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-19.32.49:752][ 27]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-19.32.49:752][ 27]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-19.32.49:752][ 27]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-19.32.49:752][ 27]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-19.32.49:752][ 27]AssetCheck: /Game/Blueprints/Player/BP_Character Validating asset
+[2025.10.31-19.32.57:072][902]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-19.32.57:103][902]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_Character] ([2] browsable assets)...
+[2025.10.31-19.32.57:103][902]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Character]
+[2025.10.31-19.32.57:151][902]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_Character
+[2025.10.31-19.32.57:151][902]LogSavePackage: Moving '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Saved/BP_Character6E3190DE44803F614436A58D9DA96735.tmp' to '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset'
+[2025.10.31-19.32.57:159][902]LogFileHelpers: InternalPromptForCheckoutAndSave took 87.158 ms (total: 487.799 ms)
+[2025.10.31-19.32.57:194][902]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-19.32.57:194][902]LogContentValidation: Enabled validators:
+[2025.10.31-19.32.57:194][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-19.32.57:194][902]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-19.32.57:194][902]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-19.32.57:194][902]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-19.32.57:194][902]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-19.32.57:194][902]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-19.32.57:194][902]AssetCheck: /Game/Blueprints/Player/BP_Character Validating asset
+[2025.10.31-19.33.03:515][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.10.31-19.33.04:239][683]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-19.33.04:269][683]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_Character] ([2] browsable assets)...
+[2025.10.31-19.33.04:269][683]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Character]
+[2025.10.31-19.33.04:316][683]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_Character
+[2025.10.31-19.33.04:316][683]LogSavePackage: Moving '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Saved/BP_CharacterDAE3338D4B4C8575DCBDE6A69682642B.tmp' to '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset'
+[2025.10.31-19.33.04:324][683]LogFileHelpers: InternalPromptForCheckoutAndSave took 85.972 ms (total: 573.771 ms)
+[2025.10.31-19.33.04:361][683]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-19.33.04:361][683]LogContentValidation: Enabled validators:
+[2025.10.31-19.33.04:361][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-19.33.04:361][683]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-19.33.04:361][683]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-19.33.04:361][683]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-19.33.04:361][683]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-19.33.04:361][683]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-19.33.04:361][683]AssetCheck: /Game/Blueprints/Player/BP_Character Validating asset
+[2025.10.31-19.33.06:436][928]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.31-19.33.06:440][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.31-19.33.06:468][928]LogPlayLevel: Creating play world package: /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing
+[2025.10.31-19.33.06:470][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002598s)
+[2025.10.31-19.33.06:470][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing/Lvl_AI_Testing.Lvl_AI_Testing to /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing.Lvl_AI_Testing (0.002629s)
+[2025.10.31-19.33.06:488][928]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.10.31-19.33.06:510][928]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_AI_Testing
+[2025.10.31-19.33.06:512][928]LogPlayLevel: PIE: World Init took: (0.001285s)
+[2025.10.31-19.33.06:512][928]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.10.31-19.33.06:512][928]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.31-19.33.06:512][928]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.31-19.33.06:512][928]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.31-19.33.06:512][928]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.31-19.33.06:512][928]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.31-19.33.06:512][928]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.31-19.33.06:512][928]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.31-19.33.06:512][928]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.31-19.33.06:512][928]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.31-19.33.06:512][928]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.31-19.33.06:512][928]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.31-19.33.06:514][928]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.31-19.33.06:533][928]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.31-19.33.06:533][928]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.31-19.33.06:533][928]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.31-19.33.06:533][928]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.31-19.33.06:533][928]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.10.31-19.33.06:533][928]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.10.31-19.33.06:535][928]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.10.31-19.33.06:535][928]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.10.31-19.33.06:535][928]LogInit: FAudioDevice initialized with ID 7.
+[2025.10.31-19.33.06:536][928]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_AI_Testing'.
+[2025.10.31-19.33.06:536][928]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.31-19.33.06:538][928]LogLoad: Game class is 'BP_GameMode_C'
+[2025.10.31-19.33.06:539][928]LogWorld: Bringing World /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing.Lvl_AI_Testing up for play (max tick rate 0) at 2025.10.31-15.33.06
+[2025.10.31-19.33.06:539][928]LogWorld: Bringing up level for play took: 0.001236
+[2025.10.31-19.33.06:541][928]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.10.31-19.33.06:542][928]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.31-19.33.06:542][928]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.31-19.33.06:543][928]LogBlueprintUserMessages: [BP_Character_C_0] Hello
+[2025.10.31-19.33.06:543][928]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.10.31-19.33.06:543][928]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing.Lvl_AI_Testing:PersistentLevel.BP_Character_C_0
+[2025.10.31-19.33.06:543][928]PIE: Server logged in
+[2025.10.31-19.33.06:544][928]PIE: Play in editor total start time 0.104 seconds.
+[2025.10.31-19.33.06:575][929]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.31-19.33.07:744][ 67]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.08:161][117]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.08:527][161]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.08:902][206]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.09:286][252]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.09:728][305]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.10:085][348]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.10:970][454]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.13:119][712]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.13:853][800]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.14:203][842]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.15:261][969]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.15:585][  8]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.16:169][ 78]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.16:803][154]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.17:071][186]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.18:578][367]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.19:195][441]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.19:661][497]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.20:079][547]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.20:553][604]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.20:686][620]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.21:478][715]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.21:694][741]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.21:853][760]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.21:897][765]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4397.691895
+[2025.10.31-19.33.21:963][773]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-19.33.21:963][774]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4397.749512, Update Interval: 308.362671
+[2025.10.31-19.33.22:145][795]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.22:335][818]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.22:586][848]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.23:045][903]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.23:220][924]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.23:370][942]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.23:479][955]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.23:620][972]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.23:729][985]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.24:812][115]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.28:295][533]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.29:361][661]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.29:736][706]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.30:108][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.31-19.33.30:108][748]LogWorld: BeginTearingDown for /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing
+[2025.10.31-19.33.30:108][748]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.31-19.33.30:108][748]LogWorld: UWorld::CleanupWorld for Lvl_AI_Testing, bSessionEnded=true, bCleanupResources=true
+[2025.10.31-19.33.30:108][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.31-19.33.30:109][748]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.31-19.33.30:114][748]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.31-19.33.30:129][748]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.31-19.33.30:129][748]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.31-19.33.30:129][748]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.10.31-19.33.30:131][748]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.10.31-19.33.30:136][748]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.31-19.33.30:137][748]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.31-19.33.30:137][748]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.31-19.33.30:137][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.10.31-19.33.30:213][749]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.10.31-19.33.33:889][185]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.31-19.33.33:894][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.31-19.33.33:918][185]LogPlayLevel: Creating play world package: /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing
+[2025.10.31-19.33.33:920][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002572s)
+[2025.10.31-19.33.33:920][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing/Lvl_AI_Testing.Lvl_AI_Testing to /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing.Lvl_AI_Testing (0.002604s)
+[2025.10.31-19.33.33:937][185]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.31-19.33.33:939][185]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_AI_Testing
+[2025.10.31-19.33.33:940][185]LogPlayLevel: PIE: World Init took: (0.001189s)
+[2025.10.31-19.33.33:941][185]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.10.31-19.33.33:941][185]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.31-19.33.33:941][185]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.31-19.33.33:941][185]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.31-19.33.33:941][185]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.31-19.33.33:941][185]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.31-19.33.33:941][185]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.31-19.33.33:941][185]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.31-19.33.33:941][185]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.31-19.33.33:941][185]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.31-19.33.33:941][185]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.31-19.33.33:941][185]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.31-19.33.33:943][185]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.31-19.33.33:962][185]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.10.31-19.33.33:962][185]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.31-19.33.33:962][185]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.31-19.33.33:962][185]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.31-19.33.33:963][185]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.10.31-19.33.33:963][185]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.10.31-19.33.33:964][185]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.10.31-19.33.33:965][185]LogInit: FAudioDevice initialized with ID 8.
+[2025.10.31-19.33.33:965][185]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.10.31-19.33.33:965][185]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_AI_Testing'.
+[2025.10.31-19.33.33:965][185]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.31-19.33.33:967][185]LogLoad: Game class is 'BP_GameMode_C'
+[2025.10.31-19.33.33:968][185]LogWorld: Bringing World /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing.Lvl_AI_Testing up for play (max tick rate 0) at 2025.10.31-15.33.33
+[2025.10.31-19.33.33:968][185]LogWorld: Bringing up level for play took: 0.001197
+[2025.10.31-19.33.33:970][185]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.10.31-19.33.33:970][185]LogSlate: New Slate User Created. Platform User Id 8, User Index 8, Is Virtual User: 1
+[2025.10.31-19.33.33:970][185]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2025.10.31-19.33.33:972][185]LogBlueprintUserMessages: [BP_Character_C_0] Hello
+[2025.10.31-19.33.33:972][185]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.10.31-19.33.33:972][185]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing.Lvl_AI_Testing:PersistentLevel.BP_Character_C_0
+[2025.10.31-19.33.33:972][185]PIE: Server logged in
+[2025.10.31-19.33.33:973][185]PIE: Play in editor total start time 0.08 seconds.
+[2025.10.31-19.33.34:003][186]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.31-19.33.36:603][496]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.39:495][843]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.40:878][  9]LogBlueprintUserMessages: [BP_Character_C_0] Started crouch
+[2025.10.31-19.33.41:911][133]LogBlueprintUserMessages: [BP_Character_C_0] stop crouch
+[2025.10.31-19.33.46:209][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.31-19.33.46:209][631]LogWorld: BeginTearingDown for /Game/Levels/Testing/UEDPIE_0_Lvl_AI_Testing
+[2025.10.31-19.33.46:209][631]LogCrowdFollowing: Warning: Unable to find RecastNavMesh instance while trying to create UCrowdManager instance
+[2025.10.31-19.33.46:210][631]LogWorld: UWorld::CleanupWorld for Lvl_AI_Testing, bSessionEnded=true, bCleanupResources=true
+[2025.10.31-19.33.46:210][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.31-19.33.46:211][631]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.31-19.33.46:215][631]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.31-19.33.46:230][631]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.31-19.33.46:230][631]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.31-19.33.46:230][631]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.10.31-19.33.46:232][631]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.10.31-19.33.46:237][631]LogSlate: Slate User Unregistered.  User Index 8
+[2025.10.31-19.33.46:237][631]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2025.10.31-19.33.46:238][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.10.31-19.33.46:310][632]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.10.31-19.39.16:890][269]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4752.664551
+[2025.10.31-19.39.17:890][272]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-19.39.17:890][272]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4753.331543, Update Interval: 318.805511
+[2025.10.31-19.45.13:276][338]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5109.059082
+[2025.10.31-19.45.14:276][341]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-19.45.14:276][342]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5109.725586, Update Interval: 302.768646
+[2025.10.31-19.51.11:655][413]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5467.441895
+[2025.10.31-19.51.12:655][416]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-19.51.12:655][417]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5468.108887, Update Interval: 347.134613
+[2025.10.31-19.57.42:372][585]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5858.155273
+[2025.10.31-19.57.43:373][588]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-19.57.43:373][589]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5858.821777, Update Interval: 305.581238
+[2025.10.31-20.03.39:429][656]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6215.214844
+[2025.10.31-20.03.40:428][659]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-20.03.40:428][660]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6215.880859, Update Interval: 351.849731
+[2025.10.31-20.10.21:814][863]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6617.599609
+[2025.10.31-20.10.22:814][866]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.31-20.10.22:814][866]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6618.265625, Update Interval: 359.996338
+[2025.10.31-20.13.00:893][440]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.31-20.13.00:915][440]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_Character] ([2] browsable assets)...
+[2025.10.31-20.13.00:916][440]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Character]
+[2025.10.31-20.13.00:965][440]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_Character
+[2025.10.31-20.13.00:965][440]LogSavePackage: Moving '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Saved/BP_Character6DFAFA12475983822F8E6986D44E23D3.tmp' to '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset'
+[2025.10.31-20.13.00:972][440]LogFileHelpers: InternalPromptForCheckoutAndSave took 80.345 ms (total: 654.117 ms)
+[2025.10.31-20.13.01:006][440]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.31-20.13.01:006][440]LogContentValidation: Enabled validators:
+[2025.10.31-20.13.01:006][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.31-20.13.01:006][440]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.31-20.13.01:006][440]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.31-20.13.01:006][440]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.31-20.13.01:006][440]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.31-20.13.01:006][440]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.31-20.13.01:006][440]AssetCheck: /Game/Blueprints/Player/BP_Character Validating asset
+[2025.10.31-20.13.01:695][520]LogSlate: Window 'BP_Character' being destroyed
+[2025.10.31-20.13.01:700][520]LogSlate: Window 'BP_Character' being destroyed
+[2025.10.31-20.13.01:733][520]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.31-20.13.01:733][520]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.31-20.13.01:786][520]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
