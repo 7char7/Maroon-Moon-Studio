@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/TakePhoto/BPLib_PhotoInteract.uasset",
+				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Levels/MainLevels/Lvl_1_Start_Garage.umap",
+				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/ObjectiveSystem/WBP_Objective.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Minigames/Item_Placement_Game/BPI_Grab.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Minigames/Item_Placement_Game/BP_Test_Pickup_Item.uasset",
@@ -35,7 +38,6 @@
 				"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Levels/MainLevels/Lvl_Garage_Floor_1.umap",
 				"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Garage_Floor_1.umap",
 				"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/PauseMenu/WBP_PauseMenu.uasset",
-				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/TakePhoto/BPLib_PhotoInteract.uasset",
 				"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Characters/Inputs/Throw.uasset",
 				"C:/Users/Dae/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Characters/Animations/Skeletons/Manny-Quin_with_Skele_Skeleton.uasset",
 				"C:/Users/Dae/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Characters/Animations/Skeletons/Manny-Quin_with_Skele.uasset",
