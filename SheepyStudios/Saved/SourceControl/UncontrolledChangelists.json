@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/TakePhoto/BPLib_PhotoInteract.uasset",
+				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/TakePhoto/BP_Present.uasset",
+				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/TakePhoto/BP_Player3D_ID.uasset",
+				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/TakePhoto/WBP_ID.uasset",
 				"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset",
 				"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Characters/Inputs/IMC_Player.uasset",
 				"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Characters/Inputs/IA_Throw.uasset",
@@ -24,7 +28,6 @@
 				"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Levels/MainLevels/Lvl_Garage_Floor_1.umap",
 				"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Garage_Floor_1.umap",
 				"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/PauseMenu/WBP_PauseMenu.uasset",
-				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/TakePhoto/BPLib_PhotoInteract.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Minigames/Item_Placement_Game/BPI_Grab.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Minigames/Item_Placement_Game/BP_Test_Pickup_Item.uasset",
