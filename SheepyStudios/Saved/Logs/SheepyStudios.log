@@ -2197,3 +2197,293 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.11.02-03.31.30:708][453]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
 [2025.11.02-03.31.30:713][453]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
 [2025.11.02-03.31.30:741][454]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2025.11.02-03.32.27:238][789]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 346.727325
+[2025.11.02-03.32.28:241][792]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.02-03.32.28:241][792]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 347.393646, Update Interval: 317.573181
+[2025.11.02-03.33.02:410][ 52]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.02-03.33.02:415][ 52]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.02-03.33.02:437][ 52]LogPlayLevel: Creating play world package: /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing
+[2025.11.02-03.33.02:440][ 52]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002929s)
+[2025.11.02-03.33.02:440][ 52]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing/Lvl_Minigame_Testing.Lvl_Minigame_Testing to /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing (0.002960s)
+[2025.11.02-03.33.02:457][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.11.02-03.33.02:460][ 52]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_Minigame_Testing
+[2025.11.02-03.33.02:461][ 52]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2025.11.02-03.33.02:461][ 52]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.11.02-03.33.02:461][ 52]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.02-03.33.02:461][ 52]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.02-03.33.02:461][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.02-03.33.02:461][ 52]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.02-03.33.02:461][ 52]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.02-03.33.02:461][ 52]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.02-03.33.02:461][ 52]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.02-03.33.02:461][ 52]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.02-03.33.02:461][ 52]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.02-03.33.02:461][ 52]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.02-03.33.02:461][ 52]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.02-03.33.02:463][ 52]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.02-03.33.02:484][ 52]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.11.02-03.33.02:484][ 52]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.02-03.33.02:484][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.02-03.33.02:484][ 52]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.02-03.33.02:484][ 52]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.11.02-03.33.02:484][ 52]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.11.02-03.33.02:486][ 52]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.11.02-03.33.02:486][ 52]LogInit: FAudioDevice initialized with ID 7.
+[2025.11.02-03.33.02:486][ 52]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.11.02-03.33.02:486][ 52]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_Minigame_Testing'.
+[2025.11.02-03.33.02:486][ 52]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.02-03.33.02:489][ 52]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.02-03.33.02:490][ 52]LogWorld: Bringing World /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing up for play (max tick rate 0) at 2025.11.01-23.33.02
+[2025.11.02-03.33.02:491][ 52]LogWorld: Bringing up level for play took: 0.001432
+[2025.11.02-03.33.02:492][ 52]LogOnline: OSS: Created online subsystem instance for: :Context_8
+[2025.11.02-03.33.02:494][ 52]LogBlueprintUserMessages: [BP_Character_C_1] Hello
+[2025.11.02-03.33.02:494][ 52]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.02:494][ 52]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_1
+[2025.11.02-03.33.02:494][ 52]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.02:494][ 52]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_1
+[2025.11.02-03.33.02:494][ 52]LogBlueprintUserMessages: [BP_Character_C_0] Hello
+[2025.11.02-03.33.02:494][ 52]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.02:494][ 52]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_0
+[2025.11.02-03.33.02:494][ 52]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.02:494][ 52]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_0
+[2025.11.02-03.33.02:495][ 52]PIE: Server logged in
+[2025.11.02-03.33.02:496][ 52]PIE: Play in editor total start time 0.081 seconds.
+[2025.11.02-03.33.02:528][ 53]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.02-03.33.06:277][500]LogBlueprintUserMessages: [BP_Character_C_0] set talking
+[2025.11.02-03.33.09:185][849]LogBlueprintUserMessages: [BP_Character_C_0] set talking
+[2025.11.02-03.33.09:185][849]LogBlueprintUserMessages: [BP_Character_C_0] set not talking
+[2025.11.02-03.33.11:894][174]LogBlueprintUserMessages: [BP_Character_C_0] set talking
+[2025.11.02-03.33.13:235][335]LogBlueprintUserMessages: [BP_Character_C_0] set talking
+[2025.11.02-03.33.14:294][462]LogBlueprintUserMessages: [BP_Character_C_0] set talking
+[2025.11.02-03.33.15:352][589]LogBlueprintUserMessages: [BP_Character_C_0] set talking
+[2025.11.02-03.33.15:352][589]LogBlueprintUserMessages: [BP_Character_C_0] set not talking
+[2025.11.02-03.33.23:916][615]LogBlueprintUserMessages: [BP_Character_C_0] set talking
+[2025.11.02-03.33.28:057][112]LogBlueprintUserMessages: [BP_Character_C_0] set talking
+[2025.11.02-03.33.28:057][112]LogBlueprintUserMessages: [BP_Character_C_0] set not talking
+[2025.11.02-03.33.29:998][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-03.33.29:998][341]LogWorld: BeginTearingDown for /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing
+[2025.11.02-03.33.29:999][341]LogWorld: UWorld::CleanupWorld for Lvl_Minigame_Testing, bSessionEnded=true, bCleanupResources=true
+[2025.11.02-03.33.29:999][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-03.33.30:000][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.02-03.33.30:004][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-03.33.30:019][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-03.33.30:019][341]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.11.02-03.33.30:019][341]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.11.02-03.33.30:021][341]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.11.02-03.33.30:026][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.11.02-03.33.30:078][343]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2025.11.02-03.33.31:639][530]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.02-03.33.31:644][530]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.02-03.33.31:668][530]LogPlayLevel: Creating play world package: /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing
+[2025.11.02-03.33.31:670][530]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002973s)
+[2025.11.02-03.33.31:670][530]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing/Lvl_Minigame_Testing.Lvl_Minigame_Testing to /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing (0.003012s)
+[2025.11.02-03.33.31:687][530]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.11.02-03.33.31:689][530]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_Minigame_Testing
+[2025.11.02-03.33.31:690][530]LogPlayLevel: PIE: World Init took: (0.001193s)
+[2025.11.02-03.33.31:691][530]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.11.02-03.33.31:691][530]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.02-03.33.31:691][530]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.02-03.33.31:691][530]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.02-03.33.31:691][530]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.02-03.33.31:691][530]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.02-03.33.31:691][530]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.02-03.33.31:691][530]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.02-03.33.31:691][530]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.02-03.33.31:691][530]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.02-03.33.31:691][530]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.02-03.33.31:691][530]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.02-03.33.31:692][530]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.02-03.33.31:711][530]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.11.02-03.33.31:711][530]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.02-03.33.31:711][530]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.02-03.33.31:711][530]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.02-03.33.31:711][530]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.11.02-03.33.31:711][530]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.11.02-03.33.31:713][530]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.11.02-03.33.31:713][530]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.11.02-03.33.31:713][530]LogInit: FAudioDevice initialized with ID 8.
+[2025.11.02-03.33.31:713][530]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_Minigame_Testing'.
+[2025.11.02-03.33.31:713][530]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.02-03.33.31:716][530]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.02-03.33.31:717][530]LogWorld: Bringing World /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing up for play (max tick rate 0) at 2025.11.01-23.33.31
+[2025.11.02-03.33.31:718][530]LogWorld: Bringing up level for play took: 0.001491
+[2025.11.02-03.33.31:719][530]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.11.02-03.33.31:721][530]LogBlueprintUserMessages: [BP_Character_C_1] Hello
+[2025.11.02-03.33.31:721][530]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.31:721][530]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_1
+[2025.11.02-03.33.31:721][530]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.31:721][530]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_1
+[2025.11.02-03.33.31:721][530]LogBlueprintUserMessages: [BP_Character_C_0] Hello
+[2025.11.02-03.33.31:721][530]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.31:721][530]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_0
+[2025.11.02-03.33.31:721][530]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.31:721][530]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_0
+[2025.11.02-03.33.31:722][530]PIE: Server logged in
+[2025.11.02-03.33.31:723][530]PIE: Play in editor total start time 0.079 seconds.
+[2025.11.02-03.33.31:753][531]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.02-03.33.33:437][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-03.33.33:437][726]LogWorld: BeginTearingDown for /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing
+[2025.11.02-03.33.33:437][726]LogWorld: UWorld::CleanupWorld for Lvl_Minigame_Testing, bSessionEnded=true, bCleanupResources=true
+[2025.11.02-03.33.33:439][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-03.33.33:440][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.02-03.33.33:444][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-03.33.33:459][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-03.33.33:459][726]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.11.02-03.33.33:460][726]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.11.02-03.33.33:461][726]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.11.02-03.33.33:467][726]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.11.02-03.33.33:520][728]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.11.02-03.33.40:978][584]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_Character.BP_Character
+[2025.11.02-03.33.40:978][584]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.11.02-03.33.41:034][584]LogStreaming: Display: FlushAsyncLoading(534): 1 QueuedPackages, 0 AsyncPackages
+[2025.11.02-03.33.46:607][144]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.11.02-03.33.50:361][213]LogSlate: Window 'Check Out Assets' being destroyed
+[2025.11.02-03.33.50:369][213]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.02-03.33.50:401][213]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Player/BP_Character] ([2] browsable assets)...
+[2025.11.02-03.33.50:401][213]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_Character]
+[2025.11.02-03.33.50:464][213]LogSavePackage: Moving output files for package: /Game/Blueprints/Player/BP_Character
+[2025.11.02-03.33.50:464][213]LogSavePackage: Moving '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Saved/BP_Character6019A932450BA35650BE41B2867175CA.tmp' to '../../../../../../Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset'
+[2025.11.02-03.33.50:475][213]LogFileHelpers: InternalPromptForCheckoutAndSave took 105.511 ms (total: 307.191 ms)
+[2025.11.02-03.33.50:510][213]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.02-03.33.50:510][213]LogContentValidation: Enabled validators:
+[2025.11.02-03.33.50:510][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.02-03.33.50:510][213]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.02-03.33.50:510][213]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.02-03.33.50:510][213]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.02-03.33.50:510][213]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.02-03.33.50:510][213]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.02-03.33.50:510][213]AssetCheck: /Game/Blueprints/Player/BP_Character Validating asset
+[2025.11.02-03.33.52:927][489]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.02-03.33.52:932][489]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.02-03.33.52:958][489]LogPlayLevel: Creating play world package: /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing
+[2025.11.02-03.33.52:961][489]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003003s)
+[2025.11.02-03.33.52:961][489]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing/Lvl_Minigame_Testing.Lvl_Minigame_Testing to /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing (0.003034s)
+[2025.11.02-03.33.52:980][489]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.11.02-03.33.52:982][489]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_Minigame_Testing
+[2025.11.02-03.33.52:983][489]LogPlayLevel: PIE: World Init took: (0.001194s)
+[2025.11.02-03.33.52:984][489]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.11.02-03.33.52:984][489]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.02-03.33.52:984][489]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.02-03.33.52:984][489]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.02-03.33.52:984][489]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.02-03.33.52:984][489]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.02-03.33.52:984][489]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.02-03.33.52:984][489]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.02-03.33.52:984][489]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.02-03.33.52:984][489]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.02-03.33.52:984][489]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.02-03.33.52:984][489]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.02-03.33.52:985][489]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.02-03.33.53:005][489]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.11.02-03.33.53:005][489]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.02-03.33.53:005][489]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.02-03.33.53:005][489]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.02-03.33.53:005][489]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.11.02-03.33.53:005][489]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.11.02-03.33.53:007][489]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.11.02-03.33.53:007][489]LogInit: FAudioDevice initialized with ID 9.
+[2025.11.02-03.33.53:007][489]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.11.02-03.33.53:007][489]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_Minigame_Testing'.
+[2025.11.02-03.33.53:007][489]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.11.02-03.33.53:010][489]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.02-03.33.53:011][489]LogWorld: Bringing World /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing up for play (max tick rate 0) at 2025.11.01-23.33.53
+[2025.11.02-03.33.53:011][489]LogWorld: Bringing up level for play took: 0.001448
+[2025.11.02-03.33.53:013][489]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.11.02-03.33.53:014][489]LogBlueprintUserMessages: [BP_Character_C_1] Hello
+[2025.11.02-03.33.53:015][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.53:015][489]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_1
+[2025.11.02-03.33.53:015][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.53:015][489]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_1
+[2025.11.02-03.33.53:015][489]LogBlueprintUserMessages: [BP_Character_C_0] Hello
+[2025.11.02-03.33.53:015][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.53:015][489]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_0
+[2025.11.02-03.33.53:015][489]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.53:015][489]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_0
+[2025.11.02-03.33.53:015][489]PIE: Server logged in
+[2025.11.02-03.33.53:017][489]PIE: Play in editor total start time 0.085 seconds.
+[2025.11.02-03.33.53:046][490]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.02-03.33.56:818][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-03.33.56:818][937]LogWorld: BeginTearingDown for /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing
+[2025.11.02-03.33.56:818][937]LogWorld: UWorld::CleanupWorld for Lvl_Minigame_Testing, bSessionEnded=true, bCleanupResources=true
+[2025.11.02-03.33.56:819][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-03.33.56:820][937]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.02-03.33.56:824][937]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-03.33.56:839][937]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.11.02-03.33.56:839][937]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.11.02-03.33.56:839][937]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.11.02-03.33.56:841][937]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.11.02-03.33.56:845][937]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-03.33.56:847][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.11.02-03.33.56:898][939]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.11.02-03.33.57:775][ 44]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.11.02-03.33.57:780][ 44]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.11.02-03.33.57:817][ 44]LogPlayLevel: Creating play world package: /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing
+[2025.11.02-03.33.57:820][ 44]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002984s)
+[2025.11.02-03.33.57:820][ 44]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Levels/Testing/Lvl_Minigame_Testing.Lvl_Minigame_Testing to /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing (0.003014s)
+[2025.11.02-03.33.57:836][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.11.02-03.33.57:837][ 44]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_Minigame_Testing
+[2025.11.02-03.33.57:839][ 44]LogPlayLevel: PIE: World Init took: (0.001281s)
+[2025.11.02-03.33.57:839][ 44]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.11.02-03.33.57:839][ 44]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.11.02-03.33.57:839][ 44]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.11.02-03.33.57:839][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.11.02-03.33.57:839][ 44]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.11.02-03.33.57:839][ 44]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.11.02-03.33.57:839][ 44]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.11.02-03.33.57:839][ 44]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.11.02-03.33.57:839][ 44]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.11.02-03.33.57:839][ 44]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.11.02-03.33.57:839][ 44]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.11.02-03.33.57:839][ 44]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.11.02-03.33.57:841][ 44]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.11.02-03.33.57:860][ 44]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2025.11.02-03.33.57:860][ 44]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.11.02-03.33.57:860][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.11.02-03.33.57:860][ 44]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.11.02-03.33.57:860][ 44]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.11.02-03.33.57:860][ 44]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.11.02-03.33.57:862][ 44]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.11.02-03.33.57:862][ 44]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.11.02-03.33.57:862][ 44]LogInit: FAudioDevice initialized with ID 10.
+[2025.11.02-03.33.57:862][ 44]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_Minigame_Testing'.
+[2025.11.02-03.33.57:862][ 44]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.11.02-03.33.57:865][ 44]LogLoad: Game class is 'BP_GameMode_C'
+[2025.11.02-03.33.57:866][ 44]LogWorld: Bringing World /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing up for play (max tick rate 0) at 2025.11.01-23.33.57
+[2025.11.02-03.33.57:867][ 44]LogWorld: Bringing up level for play took: 0.001403
+[2025.11.02-03.33.57:868][ 44]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.11.02-03.33.57:869][ 44]LogBlueprintUserMessages: [BP_Character_C_1] Hello
+[2025.11.02-03.33.57:870][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.57:870][ 44]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_1
+[2025.11.02-03.33.57:870][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.57:870][ 44]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_1
+[2025.11.02-03.33.57:870][ 44]LogBlueprintUserMessages: [BP_Character_C_0] Hello
+[2025.11.02-03.33.57:870][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.57:870][ 44]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_0
+[2025.11.02-03.33.57:870][ 44]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetComponentsByInterface_ReturnValue' of length 0 in '/Game/Blueprints/Player/BP_Character.BP_Character_C:ExecuteUbergraph_BP_Character'!
+[2025.11.02-03.33.57:870][ 44]LogScript: Warning: Script Msg called by: BP_Character_C /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing.Lvl_Minigame_Testing:PersistentLevel.BP_Character_C_0
+[2025.11.02-03.33.57:870][ 44]PIE: Server logged in
+[2025.11.02-03.33.57:871][ 44]PIE: Play in editor total start time 0.092 seconds.
+[2025.11.02-03.33.57:903][ 45]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.11.02-03.33.59:002][174]LogBlueprintUserMessages: [BP_Character_C_0] set talking
+[2025.11.02-03.34.01:802][510]LogBlueprintUserMessages: [BP_Character_C_0] set talking
+[2025.11.02-03.34.01:802][510]LogBlueprintUserMessages: [BP_Character_C_0] set not talking
+[2025.11.02-03.34.03:748][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-03.34.03:748][739]LogWorld: BeginTearingDown for /Game/Levels/Testing/UEDPIE_0_Lvl_Minigame_Testing
+[2025.11.02-03.34.03:748][739]LogWorld: UWorld::CleanupWorld for Lvl_Minigame_Testing, bSessionEnded=true, bCleanupResources=true
+[2025.11.02-03.34.03:749][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-03.34.03:749][739]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.11.02-03.34.03:753][739]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.02-03.34.03:769][739]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.11.02-03.34.03:769][739]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.11.02-03.34.03:769][739]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.11.02-03.34.03:770][739]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.11.02-03.34.03:777][739]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.11.02-03.34.03:831][741]LogPlayLevel: Display: Destroying online subsystem :Context_12
