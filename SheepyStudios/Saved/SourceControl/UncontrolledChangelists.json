@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Minigames/Item_Placement_Game/BP_PartyBanner_Pickup_Item.uasset",
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/Level_1_Office/BP_AaronEleanora_Office2.uasset",
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Minigames/Item_Placement_Game/BP_PartyHat_Pickup_Item.uasset",
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Levels/MainLevels/Lvl_Office.umap",
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset",
 				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/UIAssets/3D_HUD/BC_Phone.uasset",
 				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/PhoneMenu/WBP_PhoneMenu.uasset",
 				"C:/Users/llink/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset",
