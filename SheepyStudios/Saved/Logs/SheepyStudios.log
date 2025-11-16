@@ -4492,3 +4492,13 @@ FPackageName: Skipped package /Game/Levels/MainLevels/LV_MainMenu has a valid, m
 [2025.11.16-21.47.44:346][162]LogChaosDD: Chaos Debug Draw Shutdown
 [2025.11.16-21.47.44:365][162]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
 [2025.11.16-21.47.44:365][162]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8E6C98DE-496B-FEF1-C745-21820CC233C2%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.6.1-44394996%2B%2B%2BUE5%2BRelease-5.6&UserID=f8a9943046d7ea1d1222a8b94eab323a%7C0e2b0d93a83b435c932475e214f6579a%7Cbf6e16a2-2b4f-4d48-a85d-dfc4be1c8f5f&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.11.16-21.47.44:934][162]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.11.16-21.47.44:938][162]LogNFORDenoise: NFORDenoise function shutting down
+[2025.11.16-21.47.44:938][162]RenderDocPlugin: plugin has been unloaded.
+[2025.11.16-21.47.44:939][162]LogXGEController: Cleaning working directory: C:/Users/rappa/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2025.11.16-21.47.44:940][162]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.11.16-21.47.44:940][162]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.11.16-21.47.44:940][162]LogPakFile: Destroying PakPlatformFile
+[2025.11.16-21.47.45:346][162]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.11.16-21.47.45:365][162]LogExit: Exiting.
+[2025.11.16-21.47.45:384][162]Log file closed, 11/16/25 16:47:45
