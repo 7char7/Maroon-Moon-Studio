@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\rappa\\documents\\github\\sheepy-studios\\sheepystudios\\source\\sheepystudios\\testscript.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\rappa\\documents\\github\\sheepy-studios\\sheepystudios\\intermediate\\build\\win64\\x64\\sheepystudioseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "c:\\users\\rappa\\documents\\github\\sheepy-studios\\sheepystudios\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\sheepystudios\\definitions.sheepystudios.h",
+            "c:\\users\\rappa\\documents\\github\\sheepy-studios\\sheepystudios\\source\\sheepystudios\\testscript.h",
+            "c:\\users\\rappa\\documents\\github\\sheepy-studios\\sheepystudios\\intermediate\\build\\win64\\unrealeditor\\inc\\sheepystudios\\uht\\testscript.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
