@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SheepyStudios.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Intermediate/Build/Win64/x64/UnrealEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.h.obj"
+"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Intermediate/Build/Win64/x64/UnrealEditor/Development/SheepyStudios/Module.SheepyStudios.gen.cpp.obj"
+"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Intermediate/Build/Win64/x64/UnrealEditor/Development/SheepyStudios/SheepyStudios.cpp.obj"
+"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Intermediate/Build/Win64/x64/UnrealEditor/Development/SheepyStudios/TestScript.cpp.obj"
+"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Intermediate/Build/Win64/x64/UnrealEditor/Development/SheepyStudios/Test_Script2.cpp.obj"
+"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Intermediate/Build/Win64/x64/UnrealEditor/Development/SheepyStudios/PerModuleInline.gen.cpp.obj"
+"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Intermediate/Build/Win64/x64/UnrealEditor/Development/SheepyStudios/Default.rc2.res"
+/OUT:"C:/Users/rappa/Documents/Github/Sheepy-Studios/SheepyStudios/Intermediate/Build/Win64/x64/UnrealEditor/Development/SheepyStudios/UnrealEditor-SheepyStudios.lib"

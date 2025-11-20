@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "SheepyStudios",
+			"Path": "..\\Source\\SheepyStudios.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "SheepyStudiosEditor",
+			"Path": "..\\Source\\SheepyStudiosEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
