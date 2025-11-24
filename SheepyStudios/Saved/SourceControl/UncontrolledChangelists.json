@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Game Workshop/Sheepy-Studios/SheepyStudios/Content/Levels/MainLevels_Lvl_1/Lvl_Office_Day1.umap",
+				"D:/Game Workshop/Sheepy-Studios/SheepyStudios/Content/LevelStreaming/LS_BreakRoom.umap",
+				"D:/Game Workshop/Sheepy-Studios/SheepyStudios/Content/LevelStreaming/LS_MainOffice.umap",
 				"C:/Users/logan/Documents/Unreal Projects/Sheepy Studios/Sheepy-Studios/SheepyStudios/Content/Levels/Lvl_Garage_Floor_1.umap",
 				"C:/Users/logan/Documents/Unreal Projects/Sheepy Studios/Sheepy-Studios/SheepyStudios/Content/GarageModels/Meshes/SM_SpeedBump.uasset",
 				"C:/Users/logan/Documents/Unreal Projects/LevelDesign3/Sheepy-Studios/SheepyStudios/Content/GarageModels/Materials/M_ConcreteNEW_Wall.uasset",
