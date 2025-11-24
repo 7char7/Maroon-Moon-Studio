@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SheepyStudios.gen.cpp.obj": [
+			"MyCharacter.gen.cpp.obj",
+			"SheepyStudios.init.gen.cpp.obj"
+		]
+	}
+}
