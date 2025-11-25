@@ -1,0 +1,10 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\theve\\OneDrive\\Documents\\Unreal Projects\\Sheepy-Studios\\SheepyStudios\\Intermediate\\Source\\SheepyStudios.Build.cs",
+		"C:\\Users\\theve\\OneDrive\\Documents\\Unreal Projects\\Sheepy-Studios\\SheepyStudios\\Intermediate\\Source\\SheepyStudios.Target.cs",
+		"C:\\Users\\theve\\OneDrive\\Documents\\Unreal Projects\\Sheepy-Studios\\SheepyStudios\\Intermediate\\Source\\SheepyStudiosClient.Target.cs",
+		"C:\\Users\\theve\\OneDrive\\Documents\\Unreal Projects\\Sheepy-Studios\\SheepyStudios\\Intermediate\\Source\\SheepyStudiosEditor.Target.cs",
+		"C:\\Users\\theve\\OneDrive\\Documents\\Unreal Projects\\Sheepy-Studios\\SheepyStudios\\Intermediate\\Source\\SheepyStudiosServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
