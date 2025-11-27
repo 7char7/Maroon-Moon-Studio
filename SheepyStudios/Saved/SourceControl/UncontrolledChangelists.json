@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/MainMenu/WBP_SettingsMenu.uasset",
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset",
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/MainMenu/WBP_MainMenu.uasset",
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/MainMenu/BP_SensitivityInstance.uasset",
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/MainMenu/BP_MouseSave.uasset",
+				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/MainMenu/BP_GameInstance.uasset",
 				"C:/Users/graci/OneDrive/Desktop/gitpull/Sheepy-Studios/SheepyStudios/Content/UIAssets/2DSprites/DialogueSprites/Gary/Gary_Neutral.uasset",
 				"C:/Users/graci/OneDrive/Desktop/gitpull/Sheepy-Studios/SheepyStudios/Content/UIAssets/2DSprites/DialogueSprites/Sergio/Sergio_Neutral.uasset"
 			]
