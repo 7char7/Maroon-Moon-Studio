@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/jofra/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/PauseMenu/WBP_PauseMenu.uasset",
+				"C:/Users/jofra/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Player/BP_Character.uasset",
+				"C:/Users/jofra/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/PhoneMenu/WBP_PhoneMenu.uasset",
+				"C:/Users/jofra/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Characters/Inputs/IMC_Player.uasset",
 				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/MainLevels_Lvl_1/_GENERATED/camer/Box_D953BB36.uasset",
 				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/MainLevels_Lvl_1/_GENERATED/camer/Box_4DD4BB13.uasset",
 				"V:/GitHubRepositories/WhatYouDontSee/NewRepo_10_17_25/Sheepy-Studios/SheepyStudios/Content/Levels/MainLevels_Lvl_1/_GENERATED/camer/Boolean_22A48420.uasset",
@@ -61,7 +65,6 @@
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/PauseMenu/WBP_PauseMenu.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/Level_1/NPCs/BP_Lvl1_Pamela_pos2_5.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/Level_1/Level_1_Office_Area/Level_1_Office_Area_DataTable/DT_Gift_Sneaking.uasset",
-				"C:/Users/jofra/OneDrive/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/PauseMenu/WBP_PauseMenu.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/NPCs/Level_1/Level_1_Office_Area/Level_1_Office_Area_DataTable/DT_Start_Position1_Pamela_Irene_Henritta.uasset",
 				"C:/Users/makay/Documents/GitHub/Sheepy-Studios/SheepyStudios/Content/Blueprints/UI_Blueprints/MainMenu/BP_SensitivityInstance.uasset",
 				"C:/Users/graci/OneDrive/Desktop/gitpull/Sheepy-Studios/SheepyStudios/Content/UIAssets/2DSprites/DialogueSprites/Gary/Gary_Neutral.uasset",
