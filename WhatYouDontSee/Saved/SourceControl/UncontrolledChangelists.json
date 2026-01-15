@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/rappa/Documents/Github/Maroon-Moon-Studio/WhatYouDontSee/Content/Levels/Testing/Lvl_AI_Testing.umap",
+				"C:/Users/rappa/Documents/Github/Maroon-Moon-Studio/WhatYouDontSee/Content/Levels/Lvl_Office_Testing.umap",
+				"C:/Users/rappa/Documents/Github/Maroon-Moon-Studio/WhatYouDontSee/Content/Levels/Lvl_Garage_Floor_3.umap",
+				"C:/Users/rappa/Documents/Github/Maroon-Moon-Studio/WhatYouDontSee/Content/OfficeModels/Materials/M_FridgeGlass.uasset",
+				"C:/Users/rappa/Documents/Github/Maroon-Moon-Studio/WhatYouDontSee/Content/OfficeModels/Materials/M_FridgeMain.uasset",
+				"C:/Program Files/Epic Games/UE_5.7/Engine/Content/ArtTools/RenderToTexture/Materials/Debug/M_Graph_Inputs.uasset",
+				"C:/Users/rappa/Documents/Github/Maroon-Moon-Studio/WhatYouDontSee/Content/OfficeModels/Materials/M_Microwave.uasset",
+				"C:/Users/rappa/Documents/Github/Maroon-Moon-Studio/WhatYouDontSee/Content/OfficeModels/Materials/M_waterCooler.uasset",
+				"C:/Users/rappa/Documents/Github/Maroon-Moon-Studio/WhatYouDontSee/Content/OfficeModels/Materials/M_waterCoolerJug.uasset",
+				"C:/Users/rappa/Documents/Github/Maroon-Moon-Studio/WhatYouDontSee/Content/Levels/MainLevels_Lvl_1/LV_MainMenu.umap"
+			]
+		}
+	]
+}
