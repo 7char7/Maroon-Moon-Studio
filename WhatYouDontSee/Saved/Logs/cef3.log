@@ -1,12 +1,13 @@
-[1388:28320:0114/204413.628:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[1388:14932:0114/204413.702:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[1388:28320:0114/204413.724:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[1388:12792:0114/204419.378:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\llink\OneDrive\Documents\GitHub\Maroon-Moon-Studio\WhatYouDontSee\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\llink\OneDrive\Documents\GitHub\Maroon-Moon-Studio\WhatYouDontSee\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1388:12792:0114/204419.385:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\llink\OneDrive\Documents\GitHub\Maroon-Moon-Studio\WhatYouDontSee\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\llink\OneDrive\Documents\GitHub\Maroon-Moon-Studio\WhatYouDontSee\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1388:12792:0114/204419.392:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\llink\OneDrive\Documents\GitHub\Maroon-Moon-Studio\WhatYouDontSee\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\llink\OneDrive\Documents\GitHub\Maroon-Moon-Studio\WhatYouDontSee\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1388:12792:0114/204419.398:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\llink\OneDrive\Documents\GitHub\Maroon-Moon-Studio\WhatYouDontSee\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\llink\OneDrive\Documents\GitHub\Maroon-Moon-Studio\WhatYouDontSee\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1388:12724:0114/204421.403:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1388:12724:0114/204421.411:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[1388:10284:0114/204421.492:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\llink\OneDrive\Documents\GitHub\Maroon-Moon-Studio\WhatYouDontSee\Saved\webcache_6613\Default\GCM Store\Encryption: IO error: C:\Users\llink\OneDrive\Documents\GitHub\Maroon-Moon-Studio\WhatYouDontSee\Saved\webcache_6613\Default\GCM Store\Encryption/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[21096:28136:0114/204422.019:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-79F75AC1E40946ADE6912AE1558E2362 will be ignored
-[1388:28320:0114/213017.157:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[4480:480:0114/214413.608:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[4480:480:0114/214413.617:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[4480:26892:0114/214413.631:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[4480:480:0114/214413.638:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[4480:480:0114/214415.166:WARNING:external_registry_loader_win.cc(232)] Error observing HKLM: 5
+[6880:4312:0114/214415.465:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[6880:4312:0114/214415.465:ERROR:backend_impl.cc(989)] Critical error found -8
+[6880:4312:0114/214415.637:WARNING:storage_block-inl.h(138)] Failed data load.
+[6880:4312:0114/214415.637:WARNING:storage_block-inl.h(138)] Failed data load.
+[6880:4312:0114/214415.637:ERROR:entry_impl.cc(955)] Failed to save user data
+[31764:26296:0114/214415.818:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4AB89EEDAD31FBF53510264A6F72AF37 will be ignored
+[4480:480:0114/214417.848:ERROR:device_event_log_impl.cc(196)] [21:44:17.838] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[4480:480:0114/214630.078:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
