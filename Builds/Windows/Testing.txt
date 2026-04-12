@@ -1,0 +1,9 @@
+Looking for feedback on:
+
+- Mechanics that are not fully explained
+- Puzzles that are not readily understandable (e.g. black light)
+- Realism of level design (e.g. no floating assets, computer is too big, doors don't close fully)
+- Game audio consistency (too loud or too quiet in some areas)
+- Intelligibility of voice lines
+- Stable framerate (ideally above 45 fps)
+
